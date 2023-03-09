@@ -1,13 +1,11 @@
 import streamlit as st
-from annotated_text import annotated_text
 from collections import Counter
 from src.utils.data import (
     load_text,
     parse_results,
-    get_all_phrases,
-    make_annotations,
+    get_all_values,
 )
-from src.utils.paginator import paginator
+from src.utils.show_reviews import show_reviews
 
 st.set_page_config(
     page_title="Entities in hotel reviews",
@@ -27,19 +25,13 @@ def init() -> tuple[list[str], dict]:
 st.markdown("# Entities")
 
 reviews, entities = init()
-unique_entities = Counter(get_all_phrases(entities))
+unique_entities = Counter(get_all_values(entities, "Text"))
+unique_types = Counter(get_all_values(entities, "Type"))
 
 st.sidebar.subheader("Info")
 st.sidebar.text(f"# Reviews: {len(reviews)}")
-st.sidebar.text(f"Unique entities: {len(unique_entities)}")
-st.sidebar.write(unique_entities)
+st.sidebar.text(f"# Unique entities: {len(unique_entities)}")
+st.sidebar.text(f"# Unique entity types: {len(unique_types)}")
+st.sidebar.write(unique_types)
 
-
-for i, r in paginator(
-    "Select a review page", reviews, items_per_page=50, on_sidebar=False
-):
-    st.header(f"#{i:3d}")
-    annotated_review = (
-        make_annotations(r, entities[i]) if i in entities else [r]
-    )
-    annotated_text(*annotated_review)
+show_reviews(reviews=reviews, annotations=entities)

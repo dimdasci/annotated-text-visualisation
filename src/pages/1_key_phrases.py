@@ -1,12 +1,11 @@
 import streamlit as st
-from annotated_text import annotated_text
 from collections import Counter
 from src.utils.data import (
     load_text,
     parse_results,
-    get_all_phrases,
-    make_annotations,
+    get_all_values,
 )
+from src.utils.show_reviews import show_reviews
 
 REVIEWS_PATH = "data/reviews.csv"
 KEYPHRAES_PATH = "data/keyphrases.txt"
@@ -26,14 +25,10 @@ def init() -> tuple[list[str], dict]:
 st.markdown("# Key phrases")
 
 reviews, key_phrases = init()
-unique_phrases = Counter(get_all_phrases(key_phrases))
+unique_phrases = Counter(get_all_values(key_phrases, "Text"))
 
 st.sidebar.subheader("Info")
 st.sidebar.text(f"Reviews number: {len(reviews)}")
 st.sidebar.text(f"Unique key phrases: {len(unique_phrases)}")
-st.sidebar.write(unique_phrases)
 
-for i, r in enumerate(reviews[:15]):
-    st.header(f"#{i:3d}")
-    annotated_review = make_annotations(r, key_phrases[i])
-    annotated_text(*annotated_review)
+show_reviews(reviews=reviews, annotations=key_phrases)

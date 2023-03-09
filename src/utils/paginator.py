@@ -1,5 +1,5 @@
 """
-(c) Adrien Treuille 
+(c) Adrien Treuille
 https://gist.github.com/treuille/2ce0acb6697f205e44e3e0f576e810b7
 """
 
