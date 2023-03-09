@@ -1,8 +1,16 @@
 install: dirs requirements 
 
 dirs:
-	mkdir -p data src/pages
+	mkdir -p data src/pages src/utils
 
 requirements:
+	pip install -U pip setuptools wheel
 	pip install -r requirements.txt
 
+## Format using Black
+format: 
+	black src
+
+## Lint using flake8
+lint:
+	flake8 src
