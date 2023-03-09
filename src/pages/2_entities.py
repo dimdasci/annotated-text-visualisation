@@ -7,6 +7,7 @@ from src.utils.data import (
     get_all_phrases,
     make_annotations,
 )
+from src.utils.paginator import paginator
 
 st.set_page_config(
     page_title="Entities in hotel reviews",
@@ -33,7 +34,10 @@ st.sidebar.text(f"# Reviews: {len(reviews)}")
 st.sidebar.text(f"Unique entities: {len(unique_entities)}")
 st.sidebar.write(unique_entities)
 
-for i, r in enumerate(reviews[:15]):
+
+for i, r in paginator(
+    "Select a review page", reviews, items_per_page=50, on_sidebar=False
+):
     st.header(f"#{i:3d}")
     annotated_review = (
         make_annotations(r, entities[i]) if i in entities else [r]
