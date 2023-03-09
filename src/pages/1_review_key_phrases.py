@@ -22,7 +22,7 @@ def init() -> tuple[list[str], dict]:
     return reviews, parse_results(key_phrases, "KeyPhrases")
 
 
-st.markdown("# Key phrases")
+st.markdown("# Key phrases in reviews")
 
 reviews, key_phrases = init()
 unique_phrases = Counter(get_all_values(key_phrases, "Text"))

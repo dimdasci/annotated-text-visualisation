@@ -22,7 +22,7 @@ def init() -> tuple[list[str], dict]:
     return reviews, parse_results(entities, "Entities")
 
 
-st.markdown("# Entities")
+st.markdown("# Entities in reviews")
 
 reviews, entities = init()
 unique_entities = Counter(get_all_values(entities, "Text"))
