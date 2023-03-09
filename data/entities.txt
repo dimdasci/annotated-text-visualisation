@@ -1,0 +1,1523 @@
+{"Entities": [{"BeginOffset": 159, "EndOffset": 170, "Score": 0.9903015652915566, "Text": "first floor", "Type": "QUANTITY"}, {"BeginOffset": 199, "EndOffset": 203, "Score": 0.9768963530222309, "Text": "both", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 0}
+{"Entities": [], "File": "reviews.csv", "Line": 1}
+{"Entities": [], "File": "reviews.csv", "Line": 2}
+{"Entities": [], "File": "reviews.csv", "Line": 3}
+{"Entities": [], "File": "reviews.csv", "Line": 4}
+{"Entities": [], "File": "reviews.csv", "Line": 5}
+{"Entities": [], "File": "reviews.csv", "Line": 6}
+{"Entities": [], "File": "reviews.csv", "Line": 7}
+{"Entities": [{"BeginOffset": 167, "EndOffset": 174, "Score": 0.9941428485894703, "Text": "21 euro", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 8}
+{"Entities": [], "File": "reviews.csv", "Line": 9}
+{"Entities": [{"BeginOffset": 14, "EndOffset": 25, "Score": 0.9920014489223498, "Text": "second time", "Type": "QUANTITY"}, {"BeginOffset": 70, "EndOffset": 75, "Score": 0.9841647533455459, "Text": "first", "Type": "QUANTITY"}, {"BeginOffset": 151, "EndOffset": 156, "Score": 0.9995317268875997, "Text": "Maria", "Type": "PERSON"}, {"BeginOffset": 265, "EndOffset": 272, "Score": 0.9993127542515047, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 729, "EndOffset": 738, "Score": 0.6959804388763705, "Text": "a minutes", "Type": "QUANTITY"}, {"BeginOffset": 758, "EndOffset": 765, "Score": 0.9925108513380649, "Text": "2 euros", "Type": "QUANTITY"}, {"BeginOffset": 839, "EndOffset": 846, "Score": 0.9997354253951407, "Text": "Larnaka", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 10}
+{"Entities": [], "File": "reviews.csv", "Line": 11}
+{"Entities": [{"BeginOffset": 21, "EndOffset": 27, "Score": 0.9984058356840005, "Text": "1 week", "Type": "QUANTITY"}, {"BeginOffset": 370, "EndOffset": 377, "Score": 0.9991336228798272, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 12}
+{"Entities": [{"BeginOffset": 177, "EndOffset": 182, "Score": 0.9598574555158346, "Text": "10min", "Type": "QUANTITY"}, {"BeginOffset": 259, "EndOffset": 266, "Score": 0.9773754230670826, "Text": "English", "Type": "OTHER"}], "File": "reviews.csv", "Line": 13}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 23, "Score": 0.9534028818679369, "Text": "Second visit", "Type": "QUANTITY"}, {"BeginOffset": 93, "EndOffset": 106, "Score": 0.6465885767916384, "Text": "early morning", "Type": "DATE"}, {"BeginOffset": 275, "EndOffset": 295, "Score": 0.8953350261548219, "Text": "more than a few days", "Type": "QUANTITY"}, {"BeginOffset": 325, "EndOffset": 332, "Score": 0.9993779954230356, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 14}
+{"Entities": [], "File": "reviews.csv", "Line": 15}
+{"Entities": [], "File": "reviews.csv", "Line": 16}
+{"Entities": [{"BeginOffset": 177, "EndOffset": 187, "Score": 0.7617772616848546, "Text": "20 minutes", "Type": "QUANTITY"}, {"BeginOffset": 205, "EndOffset": 212, "Score": 0.9984098963960398, "Text": "Larnaka", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 17}
+{"Entities": [], "File": "reviews.csv", "Line": 18}
+{"Entities": [], "File": "reviews.csv", "Line": 19}
+{"Entities": [{"BeginOffset": 135, "EndOffset": 142, "Score": 0.9993683515729912, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 20}
+{"Entities": [{"BeginOffset": 91, "EndOffset": 101, "Score": 0.9525237143135846, "Text": "every inch", "Type": "QUANTITY"}, {"BeginOffset": 251, "EndOffset": 254, "Score": 0.9987113414718011, "Text": "two", "Type": "QUANTITY"}, {"BeginOffset": 391, "EndOffset": 402, "Score": 0.9802873413370116, "Text": "one morning", "Type": "QUANTITY"}, {"BeginOffset": 462, "EndOffset": 475, "Score": 0.9679832809788171, "Text": "around 5 mins", "Type": "QUANTITY"}, {"BeginOffset": 525, "EndOffset": 534, "Score": 0.9845078607556286, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 21}
+{"Entities": [], "File": "reviews.csv", "Line": 22}
+{"Entities": [], "File": "reviews.csv", "Line": 23}
+{"Entities": [], "File": "reviews.csv", "Line": 24}
+{"Entities": [{"BeginOffset": 23, "EndOffset": 32, "Score": 0.9993448513897774, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 396, "EndOffset": 401, "Score": 0.9995349425236921, "Text": "Maria", "Type": "PERSON"}, {"BeginOffset": 512, "EndOffset": 519, "Score": 0.9586371482527982, "Text": "2 weeks", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 25}
+{"Entities": [{"BeginOffset": 96, "EndOffset": 111, "Score": 0.9948120924836444, "Text": "Larnaca Airport", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 26}
+{"Entities": [], "File": "reviews.csv", "Line": 27}
+{"Entities": [], "File": "reviews.csv", "Line": 28}
+{"Entities": [], "File": "reviews.csv", "Line": 29}
+{"Entities": [{"BeginOffset": 134, "EndOffset": 148, "Score": 0.9975484053290832, "Text": "Mackenzy beach", "Type": "LOCATION"}, {"BeginOffset": 151, "EndOffset": 158, "Score": 0.9954999258937686, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 30}
+{"Entities": [], "File": "reviews.csv", "Line": 31}
+{"Entities": [], "File": "reviews.csv", "Line": 32}
+{"Entities": [], "File": "reviews.csv", "Line": 33}
+{"Entities": [], "File": "reviews.csv", "Line": 34}
+{"Entities": [{"BeginOffset": 104, "EndOffset": 113, "Score": 0.852526194881594, "Text": "10-minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 35}
+{"Entities": [{"BeginOffset": 137, "EndOffset": 153, "Score": 0.8785223384756692, "Text": "every 15 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 36}
+{"Entities": [], "File": "reviews.csv", "Line": 37}
+{"Entities": [], "File": "reviews.csv", "Line": 38}
+{"Entities": [{"BeginOffset": 51, "EndOffset": 66, "Score": 0.8563742401349927, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 39}
+{"Entities": [{"BeginOffset": 61, "EndOffset": 67, "Score": 0.6131824867992185, "Text": "5 lins", "Type": "QUANTITY"}, {"BeginOffset": 98, "EndOffset": 104, "Score": 0.9993861605036819, "Text": "5 mins", "Type": "QUANTITY"}, {"BeginOffset": 243, "EndOffset": 248, "Score": 0.9949782623224431, "Text": "22:30", "Type": "DATE"}, {"BeginOffset": 384, "EndOffset": 386, "Score": 0.9995397064781977, "Text": "UK", "Type": "LOCATION"}, {"BeginOffset": 393, "EndOffset": 408, "Score": 0.6957712370796382, "Text": "early afternoon", "Type": "DATE"}, {"BeginOffset": 422, "EndOffset": 433, "Score": 0.7881611776202029, "Text": "after 23:00", "Type": "DATE"}], "File": "reviews.csv", "Line": 40}
+{"Entities": [], "File": "reviews.csv", "Line": 41}
+{"Entities": [], "File": "reviews.csv", "Line": 42}
+{"Entities": [], "File": "reviews.csv", "Line": 43}
+{"Entities": [{"BeginOffset": 201, "EndOffset": 216, "Score": 0.9507037358836148, "Text": "about 5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 44}
+{"Entities": [], "File": "reviews.csv", "Line": 45}
+{"Entities": [], "File": "reviews.csv", "Line": 46}
+{"Entities": [], "File": "reviews.csv", "Line": 47}
+{"Entities": [{"BeginOffset": 102, "EndOffset": 109, "Score": 0.9941288360859962, "Text": "2 rooms", "Type": "QUANTITY"}, {"BeginOffset": 142, "EndOffset": 143, "Score": 0.8832888159712077, "Text": "5", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 48}
+{"Entities": [], "File": "reviews.csv", "Line": 49}
+{"Entities": [], "File": "reviews.csv", "Line": 50}
+{"Entities": [], "File": "reviews.csv", "Line": 51}
+{"Entities": [{"BeginOffset": 59, "EndOffset": 74, "Score": 0.9984654795198971, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 52}
+{"Entities": [], "File": "reviews.csv", "Line": 53}
+{"Entities": [], "File": "reviews.csv", "Line": 54}
+{"Entities": [{"BeginOffset": 43, "EndOffset": 50, "Score": 0.5332876625098093, "Text": "morning", "Type": "DATE"}, {"BeginOffset": 53, "EndOffset": 57, "Score": 0.5564112703136957, "Text": "late", "Type": "DATE"}, {"BeginOffset": 96, "EndOffset": 105, "Score": 0.9806432094503488, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 332, "EndOffset": 333, "Score": 0.956832615133751, "Text": "7", "Type": "DATE"}, {"BeginOffset": 346, "EndOffset": 347, "Score": 0.9274789074001859, "Text": "8", "Type": "DATE"}, {"BeginOffset": 407, "EndOffset": 417, "Score": 0.995214823708947, "Text": "one nights", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 55}
+{"Entities": [{"BeginOffset": 326, "EndOffset": 333, "Score": 0.9991902714316797, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 56}
+{"Entities": [], "File": "reviews.csv", "Line": 57}
+{"Entities": [], "File": "reviews.csv", "Line": 58}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 36, "Score": 0.5287175569250405, "Text": "hours", "Type": "DATE"}], "File": "reviews.csv", "Line": 59}
+{"Entities": [], "File": "reviews.csv", "Line": 60}
+{"Entities": [{"BeginOffset": 180, "EndOffset": 186, "Score": 0.9971846446756001, "Text": "10 day", "Type": "QUANTITY"}, {"BeginOffset": 276, "EndOffset": 286, "Score": 0.9613214503314144, "Text": "La Veranda", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 61}
+{"Entities": [{"BeginOffset": 85, "EndOffset": 87, "Score": 0.6619894126919799, "Text": "up", "Type": "QUANTITY"}, {"BeginOffset": 91, "EndOffset": 92, "Score": 0.7686394405077345, "Text": "4", "Type": "QUANTITY"}, {"BeginOffset": 150, "EndOffset": 177, "Score": 0.9632457202364686, "Text": "single negative point\u2026which", "Type": "QUANTITY"}, {"BeginOffset": 203, "EndOffset": 211, "Score": 0.9991763122317204, "Text": "45 years", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 62}
+{"Entities": [{"BeginOffset": 149, "EndOffset": 154, "Score": 0.9994517023348717, "Text": "5 min", "Type": "QUANTITY"}, {"BeginOffset": 165, "EndOffset": 171, "Score": 0.9985080990150762, "Text": "10 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 63}
+{"Entities": [], "File": "reviews.csv", "Line": 64}
+{"Entities": [{"BeginOffset": 76, "EndOffset": 78, "Score": 0.9941020646655393, "Text": "uk", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 65}
+{"Entities": [], "File": "reviews.csv", "Line": 66}
+{"Entities": [], "File": "reviews.csv", "Line": 67}
+{"Entities": [], "File": "reviews.csv", "Line": 68}
+{"Entities": [], "File": "reviews.csv", "Line": 69}
+{"Entities": [{"BeginOffset": 22, "EndOffset": 36, "Score": 0.5825819895283239, "Text": "after midnight", "Type": "DATE"}, {"BeginOffset": 301, "EndOffset": 316, "Score": 0.9946836407212072, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 70}
+{"Entities": [], "File": "reviews.csv", "Line": 71}
+{"Entities": [], "File": "reviews.csv", "Line": 72}
+{"Entities": [{"BeginOffset": 82, "EndOffset": 91, "Score": 0.9369834900360362, "Text": "Salt Lake", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 73}
+{"Entities": [], "File": "reviews.csv", "Line": 74}
+{"Entities": [], "File": "reviews.csv", "Line": 75}
+{"Entities": [], "File": "reviews.csv", "Line": 76}
+{"Entities": [], "File": "reviews.csv", "Line": 77}
+{"Entities": [], "File": "reviews.csv", "Line": 78}
+{"Entities": [{"BeginOffset": 104, "EndOffset": 106, "Score": 0.5032678465899375, "Text": "Mc", "Type": "LOCATION"}, {"BeginOffset": 107, "EndOffset": 119, "Score": 0.8513308584324659, "Text": "Kenzie Beach", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 79}
+{"Entities": [{"BeginOffset": 70, "EndOffset": 77, "Score": 0.993976749248399, "Text": "24 hour", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 80}
+{"Entities": [], "File": "reviews.csv", "Line": 81}
+{"Entities": [], "File": "reviews.csv", "Line": 82}
+{"Entities": [], "File": "reviews.csv", "Line": 83}
+{"Entities": [], "File": "reviews.csv", "Line": 84}
+{"Entities": [], "File": "reviews.csv", "Line": 85}
+{"Entities": [], "File": "reviews.csv", "Line": 86}
+{"Entities": [], "File": "reviews.csv", "Line": 87}
+{"Entities": [{"BeginOffset": 29, "EndOffset": 32, "Score": 0.9929484387959729, "Text": "4am", "Type": "DATE"}], "File": "reviews.csv", "Line": 88}
+{"Entities": [], "File": "reviews.csv", "Line": 89}
+{"Entities": [{"BeginOffset": 20, "EndOffset": 35, "Score": 0.8385657940855105, "Text": "Larnaca airport", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 90}
+{"Entities": [{"BeginOffset": 18, "EndOffset": 28, "Score": 0.6980633382982647, "Text": "late night", "Type": "DATE"}], "File": "reviews.csv", "Line": 91}
+{"Entities": [{"BeginOffset": 143, "EndOffset": 151, "Score": 0.7450910975041897, "Text": "Francais", "Type": "OTHER"}, {"BeginOffset": 263, "EndOffset": 278, "Score": 0.9301830613530294, "Text": "Larnaka airport", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 92}
+{"Entities": [{"BeginOffset": 29, "EndOffset": 38, "Score": 0.5844846290567384, "Text": "Mackenzie", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 93}
+{"Entities": [], "File": "reviews.csv", "Line": 94}
+{"Entities": [], "File": "reviews.csv", "Line": 95}
+{"Entities": [], "File": "reviews.csv", "Line": 96}
+{"Entities": [{"BeginOffset": 38, "EndOffset": 47, "Score": 0.9984737861763224, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 153, "EndOffset": 163, "Score": 0.9200677598825238, "Text": "two-nights", "Type": "QUANTITY"}, {"BeginOffset": 197, "EndOffset": 206, "Score": 0.5684575864419728, "Text": "mackenzie", "Type": "LOCATION"}, {"BeginOffset": 272, "EndOffset": 281, "Score": 0.6255531301742834, "Text": "salt lake", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 97}
+{"Entities": [], "File": "reviews.csv", "Line": 98}
+{"Entities": [], "File": "reviews.csv", "Line": 99}
+{"Entities": [], "File": "reviews.csv", "Line": 100}
+{"Entities": [{"BeginOffset": 84, "EndOffset": 92, "Score": 0.99305727135028, "Text": "Makenzie", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 101}
+{"Entities": [], "File": "reviews.csv", "Line": 102}
+{"Entities": [], "File": "reviews.csv", "Line": 103}
+{"Entities": [{"BeginOffset": 30, "EndOffset": 37, "Score": 0.9866104288382366, "Text": "a night", "Type": "QUANTITY"}, {"BeginOffset": 83, "EndOffset": 85, "Score": 0.5115846924003942, "Text": "La", "Type": "LOCATION"}, {"BeginOffset": 86, "EndOffset": 99, "Score": 0.5899446803027764, "Text": "Veranda Hotel", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 104}
+{"Entities": [{"BeginOffset": 41, "EndOffset": 50, "Score": 0.8856643287137518, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 184, "EndOffset": 191, "Score": 0.9580743794055182, "Text": "English", "Type": "OTHER"}, {"BeginOffset": 359, "EndOffset": 367, "Score": 0.9408664131750583, "Text": "next day", "Type": "DATE"}], "File": "reviews.csv", "Line": 105}
+{"Entities": [], "File": "reviews.csv", "Line": 106}
+{"Entities": [], "File": "reviews.csv", "Line": 107}
+{"Entities": [], "File": "reviews.csv", "Line": 108}
+{"Entities": [{"BeginOffset": 44, "EndOffset": 51, "Score": 0.9995051688169745, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 109}
+{"Entities": [{"BeginOffset": 54, "EndOffset": 69, "Score": 0.9901821186791034, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 110}
+{"Entities": [], "File": "reviews.csv", "Line": 111}
+{"Entities": [], "File": "reviews.csv", "Line": 112}
+{"Entities": [{"BeginOffset": 73, "EndOffset": 83, "Score": 0.999379083128045, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 110, "EndOffset": 112, "Score": 0.9892292909951184, "Text": "15", "Type": "QUANTITY"}, {"BeginOffset": 166, "EndOffset": 175, "Score": 0.9482272517893995, "Text": "ayia napa", "Type": "LOCATION"}, {"BeginOffset": 194, "EndOffset": 201, "Score": 0.9971927753661558, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 249, "EndOffset": 264, "Score": 0.9944988520765691, "Text": "Larnaca Airport", "Type": "LOCATION"}, {"BeginOffset": 266, "EndOffset": 280, "Score": 0.9823580916675717, "Text": "McKenzie beach", "Type": "LOCATION"}, {"BeginOffset": 354, "EndOffset": 364, "Score": 0.9575909313896149, "Text": "ten minute", "Type": "QUANTITY"}, {"BeginOffset": 558, "EndOffset": 569, "Score": 0.6220475656385096, "Text": "booking.com", "Type": "ORGANIZATION"}, {"BeginOffset": 844, "EndOffset": 851, "Score": 0.9973677080692099, "Text": "2 night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 113}
+{"Entities": [{"BeginOffset": 93, "EndOffset": 102, "Score": 0.7950078523773922, "Text": "mackenzie", "Type": "LOCATION"}, {"BeginOffset": 112, "EndOffset": 123, "Score": 0.9861293938223283, "Text": "few minutes", "Type": "QUANTITY"}, {"BeginOffset": 156, "EndOffset": 163, "Score": 0.9992783512915766, "Text": "larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 114}
+{"Entities": [], "File": "reviews.csv", "Line": 115}
+{"Entities": [], "File": "reviews.csv", "Line": 158}
+{"Entities": [], "File": "reviews.csv", "Line": 159}
+{"Entities": [], "File": "reviews.csv", "Line": 160}
+{"Entities": [], "File": "reviews.csv", "Line": 161}
+{"Entities": [], "File": "reviews.csv", "Line": 162}
+{"Entities": [], "File": "reviews.csv", "Line": 163}
+{"Entities": [], "File": "reviews.csv", "Line": 164}
+{"Entities": [], "File": "reviews.csv", "Line": 165}
+{"Entities": [], "File": "reviews.csv", "Line": 166}
+{"Entities": [], "File": "reviews.csv", "Line": 167}
+{"Entities": [{"BeginOffset": 74, "EndOffset": 81, "Score": 0.9976259341495334, "Text": "2 meals", "Type": "QUANTITY"}, {"BeginOffset": 114, "EndOffset": 118, "Score": 0.9909254436453522, "Text": "both", "Type": "QUANTITY"}, {"BeginOffset": 169, "EndOffset": 176, "Score": 0.998603075859134, "Text": "1 night", "Type": "QUANTITY"}, {"BeginOffset": 236, "EndOffset": 241, "Score": 0.992891127353368, "Text": "5 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 168}
+{"Entities": [{"BeginOffset": 35, "EndOffset": 42, "Score": 0.9993381116003462, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 169}
+{"Entities": [{"BeginOffset": 70, "EndOffset": 84, "Score": 0.9564955745758792, "Text": "McKenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 170}
+{"Entities": [], "File": "reviews.csv", "Line": 171}
+{"Entities": [], "File": "reviews.csv", "Line": 172}
+{"Entities": [], "File": "reviews.csv", "Line": 173}
+{"Entities": [], "File": "reviews.csv", "Line": 174}
+{"Entities": [{"BeginOffset": 43, "EndOffset": 53, "Score": 0.9969154431780435, "Text": "two people", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 175}
+{"Entities": [], "File": "reviews.csv", "Line": 176}
+{"Entities": [], "File": "reviews.csv", "Line": 177}
+{"Entities": [], "File": "reviews.csv", "Line": 178}
+{"Entities": [], "File": "reviews.csv", "Line": 179}
+{"Entities": [], "File": "reviews.csv", "Line": 180}
+{"Entities": [], "File": "reviews.csv", "Line": 181}
+{"Entities": [], "File": "reviews.csv", "Line": 182}
+{"Entities": [], "File": "reviews.csv", "Line": 183}
+{"Entities": [{"BeginOffset": 48, "EndOffset": 54, "Score": 0.9859679023321961, "Text": "3 a.m.", "Type": "DATE"}, {"BeginOffset": 116, "EndOffset": 120, "Score": 0.7489806612594814, "Text": "noon", "Type": "DATE"}], "File": "reviews.csv", "Line": 184}
+{"Entities": [], "File": "reviews.csv", "Line": 185}
+{"Entities": [], "File": "reviews.csv", "Line": 186}
+{"Entities": [], "File": "reviews.csv", "Line": 187}
+{"Entities": [], "File": "reviews.csv", "Line": 188}
+{"Entities": [{"BeginOffset": 112, "EndOffset": 115, "Score": 0.9805933168342721, "Text": "1am", "Type": "DATE"}, {"BeginOffset": 256, "EndOffset": 259, "Score": 0.6802245490302485, "Text": "one", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 189}
+{"Entities": [], "File": "reviews.csv", "Line": 190}
+{"Entities": [], "File": "reviews.csv", "Line": 191}
+{"Entities": [], "File": "reviews.csv", "Line": 192}
+{"Entities": [], "File": "reviews.csv", "Line": 193}
+{"Entities": [], "File": "reviews.csv", "Line": 194}
+{"Entities": [{"BeginOffset": 99, "EndOffset": 110, "Score": 0.9848246095446933, "Text": "booking.com", "Type": "ORGANIZATION"}, {"BeginOffset": 143, "EndOffset": 150, "Score": 0.9986981245923658, "Text": "80 euro", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 195}
+{"Entities": [{"BeginOffset": 60, "EndOffset": 74, "Score": 0.9958095263903493, "Text": "Mackenzy beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 196}
+{"Entities": [{"BeginOffset": 195, "EndOffset": 202, "Score": 0.9998550625148414, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 197}
+{"Entities": [{"BeginOffset": 62, "EndOffset": 70, "Score": 0.999300154169212, "Text": "5 minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 198}
+{"Entities": [{"BeginOffset": 40, "EndOffset": 46, "Score": 0.9987401275622982, "Text": "5 star", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 199}
+{"Entities": [], "File": "reviews.csv", "Line": 200}
+{"Entities": [{"BeginOffset": 126, "EndOffset": 145, "Score": 0.9930631746122458, "Text": "more than one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 201}
+{"Entities": [], "File": "reviews.csv", "Line": 202}
+{"Entities": [], "File": "reviews.csv", "Line": 203}
+{"Entities": [], "File": "reviews.csv", "Line": 204}
+{"Entities": [{"BeginOffset": 72, "EndOffset": 91, "Score": 0.9887992466787379, "Text": "less than 5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 205}
+{"Entities": [{"BeginOffset": 88, "EndOffset": 95, "Score": 0.9992585350018324, "Text": "1 night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 206}
+{"Entities": [], "File": "reviews.csv", "Line": 207}
+{"Entities": [], "File": "reviews.csv", "Line": 208}
+{"Entities": [], "File": "reviews.csv", "Line": 209}
+{"Entities": [{"BeginOffset": 219, "EndOffset": 231, "Score": 0.9908448096677178, "Text": "half an hour", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 210}
+{"Entities": [{"BeginOffset": 76, "EndOffset": 81, "Score": 0.9955154021575314, "Text": "10/10", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 211}
+{"Entities": [], "File": "reviews.csv", "Line": 212}
+{"Entities": [], "File": "reviews.csv", "Line": 213}
+{"Entities": [], "File": "reviews.csv", "Line": 214}
+{"Entities": [], "File": "reviews.csv", "Line": 215}
+{"Entities": [], "File": "reviews.csv", "Line": 216}
+{"Entities": [], "File": "reviews.csv", "Line": 217}
+{"Entities": [{"BeginOffset": 118, "EndOffset": 127, "Score": 0.9991641171006386, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 168, "EndOffset": 178, "Score": 0.9995093380535329, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 116}
+{"Entities": [{"BeginOffset": 46, "EndOffset": 51, "Score": 0.5641230463847836, "Text": "10/10", "Type": "QUANTITY"}, {"BeginOffset": 87, "EndOffset": 92, "Score": 0.8227117056350945, "Text": "10/10", "Type": "QUANTITY"}, {"BeginOffset": 122, "EndOffset": 127, "Score": 0.938841929024862, "Text": "10/10", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 117}
+{"Entities": [{"BeginOffset": 219, "EndOffset": 229, "Score": 0.892326394640777, "Text": "La Veranda", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 118}
+{"Entities": [], "File": "reviews.csv", "Line": 119}
+{"Entities": [], "File": "reviews.csv", "Line": 120}
+{"Entities": [], "File": "reviews.csv", "Line": 121}
+{"Entities": [], "File": "reviews.csv", "Line": 122}
+{"Entities": [], "File": "reviews.csv", "Line": 123}
+{"Entities": [{"BeginOffset": 20, "EndOffset": 27, "Score": 0.9976561554703587, "Text": "3 stars", "Type": "QUANTITY"}, {"BeginOffset": 93, "EndOffset": 96, "Score": 0.9556943382424737, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 120, "EndOffset": 127, "Score": 0.9991901524352454, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 179, "EndOffset": 186, "Score": 0.9988993613244783, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 287, "EndOffset": 297, "Score": 0.9903967555183859, "Text": "both times", "Type": "QUANTITY"}, {"BeginOffset": 330, "EndOffset": 337, "Score": 0.9884378847693421, "Text": "2-3 EUR", "Type": "QUANTITY"}, {"BeginOffset": 377, "EndOffset": 383, "Score": 0.9984586788254947, "Text": "20 EUR", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 124}
+{"Entities": [], "File": "reviews.csv", "Line": 125}
+{"Entities": [], "File": "reviews.csv", "Line": 126}
+{"Entities": [], "File": "reviews.csv", "Line": 127}
+{"Entities": [{"BeginOffset": 181, "EndOffset": 189, "Score": 0.9696987640732923, "Text": "Makenzie", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 128}
+{"Entities": [], "File": "reviews.csv", "Line": 129}
+{"Entities": [{"BeginOffset": 217, "EndOffset": 224, "Score": 0.8156923920365937, "Text": "425 bus", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 130}
+{"Entities": [{"BeginOffset": 37, "EndOffset": 44, "Score": 0.9997328041863884, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 117, "EndOffset": 123, "Score": 0.9922257624338195, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 127, "EndOffset": 134, "Score": 0.9445064953354434, "Text": "English", "Type": "OTHER"}, {"BeginOffset": 263, "EndOffset": 270, "Score": 0.9994294324711788, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 131}
+{"Entities": [{"BeginOffset": 39, "EndOffset": 40, "Score": 0.5537868554137074, "Text": "2", "Type": "QUANTITY"}, {"BeginOffset": 50, "EndOffset": 51, "Score": 0.6898919480648701, "Text": "3", "Type": "QUANTITY"}, {"BeginOffset": 180, "EndOffset": 185, "Score": 0.999177060820245, "Text": "Maria", "Type": "PERSON"}], "File": "reviews.csv", "Line": 132}
+{"Entities": [], "File": "reviews.csv", "Line": 133}
+{"Entities": [{"BeginOffset": 67, "EndOffset": 74, "Score": 0.9993969265136098, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 134}
+{"Entities": [], "File": "reviews.csv", "Line": 135}
+{"Entities": [], "File": "reviews.csv", "Line": 136}
+{"Entities": [{"BeginOffset": 124, "EndOffset": 132, "Score": 0.998787895791475, "Text": "12 stars", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 137}
+{"Entities": [], "File": "reviews.csv", "Line": 138}
+{"Entities": [], "File": "reviews.csv", "Line": 139}
+{"Entities": [], "File": "reviews.csv", "Line": 140}
+{"Entities": [{"BeginOffset": 46, "EndOffset": 61, "Score": 0.9868990801188968, "Text": "mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 141}
+{"Entities": [], "File": "reviews.csv", "Line": 142}
+{"Entities": [], "File": "reviews.csv", "Line": 143}
+{"Entities": [{"BeginOffset": 21, "EndOffset": 29, "Score": 0.9985827890974256, "Text": "9 nights", "Type": "QUANTITY"}, {"BeginOffset": 119, "EndOffset": 124, "Score": 0.9821977650219443, "Text": "5 min", "Type": "QUANTITY"}, {"BeginOffset": 135, "EndOffset": 159, "Score": 0.9183606884967771, "Text": "Makenzie blue flag beach", "Type": "LOCATION"}, {"BeginOffset": 445, "EndOffset": 460, "Score": 0.6270388445548591, "Text": "couple of times", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 144}
+{"Entities": [], "File": "reviews.csv", "Line": 145}
+{"Entities": [], "File": "reviews.csv", "Line": 146}
+{"Entities": [], "File": "reviews.csv", "Line": 147}
+{"Entities": [{"BeginOffset": 27, "EndOffset": 34, "Score": 0.712233313558687, "Text": "a night", "Type": "QUANTITY"}, {"BeginOffset": 213, "EndOffset": 216, "Score": 0.9987095702005586, "Text": "6am", "Type": "DATE"}], "File": "reviews.csv", "Line": 148}
+{"Entities": [{"BeginOffset": 90, "EndOffset": 98, "Score": 0.9980601723768624, "Text": "24 hours", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 149}
+{"Entities": [], "File": "reviews.csv", "Line": 150}
+{"Entities": [{"BeginOffset": 248, "EndOffset": 254, "Score": 0.9659145983805485, "Text": "cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 151}
+{"Entities": [], "File": "reviews.csv", "Line": 152}
+{"Entities": [{"BeginOffset": 84, "EndOffset": 86, "Score": 0.7095434535375444, "Text": "RT", "Type": "ORGANIZATION"}, {"BeginOffset": 87, "EndOffset": 99, "Score": 0.7295909452228994, "Text": "Russia Today", "Type": "TITLE"}], "File": "reviews.csv", "Line": 153}
+{"Entities": [], "File": "reviews.csv", "Line": 154}
+{"Entities": [{"BeginOffset": 57, "EndOffset": 68, "Score": 0.8552209213974483, "Text": "a few hours", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 155}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 20, "Score": 0.9982330551846135, "Text": "7 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 156}
+{"Entities": [{"BeginOffset": 77, "EndOffset": 80, "Score": 0.9986573962064045, "Text": "3am", "Type": "DATE"}], "File": "reviews.csv", "Line": 157}
+{"Entities": [], "File": "reviews.csv", "Line": 218}
+{"Entities": [{"BeginOffset": 135, "EndOffset": 138, "Score": 0.9667490471733526, "Text": "4km", "Type": "QUANTITY"}, {"BeginOffset": 196, "EndOffset": 206, "Score": 0.998211153164942, "Text": "40 minutes", "Type": "QUANTITY"}, {"BeginOffset": 315, "EndOffset": 322, "Score": 0.9616412278012676, "Text": "English", "Type": "OTHER"}], "File": "reviews.csv", "Line": 219}
+{"Entities": [{"BeginOffset": 26, "EndOffset": 35, "Score": 0.9984216084889584, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 220}
+{"Entities": [], "File": "reviews.csv", "Line": 221}
+{"Entities": [], "File": "reviews.csv", "Line": 222}
+{"Entities": [], "File": "reviews.csv", "Line": 223}
+{"Entities": [], "File": "reviews.csv", "Line": 224}
+{"Entities": [{"BeginOffset": 107, "EndOffset": 114, "Score": 0.9862139914658032, "Text": "English", "Type": "OTHER"}, {"BeginOffset": 470, "EndOffset": 472, "Score": 0.9436069253790653, "Text": "UK", "Type": "LOCATION"}, {"BeginOffset": 515, "EndOffset": 525, "Score": 0.6274430499606688, "Text": "double bed", "Type": "OTHER"}, {"BeginOffset": 1041, "EndOffset": 1066, "Score": 0.9739582909769201, "Text": "One small bottle of water", "Type": "QUANTITY"}, {"BeginOffset": 1083, "EndOffset": 1094, "Score": 0.732328492961246, "Text": "double room", "Type": "QUANTITY"}, {"BeginOffset": 1145, "EndOffset": 1147, "Score": 0.9987557601068202, "Text": "2\u20ac", "Type": "QUANTITY"}, {"BeginOffset": 1157, "EndOffset": 1160, "Score": 0.6273431524423808, "Text": "day", "Type": "QUANTITY"}, {"BeginOffset": 1169, "EndOffset": 1178, "Score": 0.9995024915313304, "Text": "2 bottles", "Type": "QUANTITY"}, {"BeginOffset": 1233, "EndOffset": 1250, "Score": 0.8206810917257265, "Text": "A couple of cents", "Type": "QUANTITY"}, {"BeginOffset": 1378, "EndOffset": 1390, "Score": 0.8132068535463526, "Text": "half a glass", "Type": "QUANTITY"}, {"BeginOffset": 1638, "EndOffset": 1646, "Score": 0.9806893715565029, "Text": "MacGyver", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 225}
+{"Entities": [], "File": "reviews.csv", "Line": 226}
+{"Entities": [{"BeginOffset": 15, "EndOffset": 21, "Score": 0.9755614456230836, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 72, "EndOffset": 80, "Score": 0.9972864947799034, "Text": "1 minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 227}
+{"Entities": [], "File": "reviews.csv", "Line": 228}
+{"Entities": [], "File": "reviews.csv", "Line": 229}
+{"Entities": [], "File": "reviews.csv", "Line": 230}
+{"Entities": [], "File": "reviews.csv", "Line": 231}
+{"Entities": [], "File": "reviews.csv", "Line": 232}
+{"Entities": [], "File": "reviews.csv", "Line": 233}
+{"Entities": [], "File": "reviews.csv", "Line": 234}
+{"Entities": [{"BeginOffset": 191, "EndOffset": 201, "Score": 0.9791118535944534, "Text": "about 100m", "Type": "QUANTITY"}, {"BeginOffset": 211, "EndOffset": 224, "Score": 0.9354618005518118, "Text": "425 bus route", "Type": "LOCATION"}, {"BeginOffset": 252, "EndOffset": 268, "Score": 0.9879267365519117, "Text": "about 10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 290, "EndOffset": 297, "Score": 0.9889254201703492, "Text": "2 Euros", "Type": "QUANTITY"}, {"BeginOffset": 331, "EndOffset": 339, "Score": 0.9967567846524421, "Text": "15 Euros", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 235}
+{"Entities": [], "File": "reviews.csv", "Line": 236}
+{"Entities": [], "File": "reviews.csv", "Line": 237}
+{"Entities": [{"BeginOffset": 119, "EndOffset": 129, "Score": 0.9888229982696658, "Text": "each floor", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 238}
+{"Entities": [{"BeginOffset": 230, "EndOffset": 236, "Score": 0.9978735754613471, "Text": "5 star", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 239}
+{"Entities": [], "File": "reviews.csv", "Line": 240}
+{"Entities": [], "File": "reviews.csv", "Line": 241}
+{"Entities": [], "File": "reviews.csv", "Line": 242}
+{"Entities": [], "File": "reviews.csv", "Line": 243}
+{"Entities": [{"BeginOffset": 179, "EndOffset": 186, "Score": 0.999634995224335, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 244}
+{"Entities": [], "File": "reviews.csv", "Line": 281}
+{"Entities": [], "File": "reviews.csv", "Line": 282}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 21, "Score": 0.8474636594815778, "Text": "La Veranda", "Type": "ORGANIZATION"}, {"BeginOffset": 205, "EndOffset": 216, "Score": 0.5126304744788326, "Text": "restaurants", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 283}
+{"Entities": [], "File": "reviews.csv", "Line": 284}
+{"Entities": [], "File": "reviews.csv", "Line": 285}
+{"Entities": [], "File": "reviews.csv", "Line": 286}
+{"Entities": [{"BeginOffset": 86, "EndOffset": 96, "Score": 0.7842687201286345, "Text": "kilometers", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 287}
+{"Entities": [{"BeginOffset": 64, "EndOffset": 78, "Score": 0.9071305926640186, "Text": "Makenzie beach", "Type": "LOCATION"}, {"BeginOffset": 106, "EndOffset": 123, "Score": 0.9546162051394868, "Text": "around 15-18 euro", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 288}
+{"Entities": [{"BeginOffset": 67, "EndOffset": 72, "Score": 0.7819020510411048, "Text": "Covid", "Type": "OTHER"}], "File": "reviews.csv", "Line": 289}
+{"Entities": [], "File": "reviews.csv", "Line": 290}
+{"Entities": [{"BeginOffset": 68, "EndOffset": 77, "Score": 0.9415107054792456, "Text": "8 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 291}
+{"Entities": [], "File": "reviews.csv", "Line": 292}
+{"Entities": [], "File": "reviews.csv", "Line": 293}
+{"Entities": [{"BeginOffset": 21, "EndOffset": 32, "Score": 0.9982798622930475, "Text": "second time", "Type": "QUANTITY"}, {"BeginOffset": 163, "EndOffset": 173, "Score": 0.9389193660638232, "Text": "20 minutes", "Type": "QUANTITY"}, {"BeginOffset": 367, "EndOffset": 374, "Score": 0.5760056046982313, "Text": "Garnish", "Type": "OTHER"}, {"BeginOffset": 468, "EndOffset": 475, "Score": 0.9995482817349804, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 480, "EndOffset": 485, "Score": 0.999682765550335, "Text": "Sendi", "Type": "PERSON"}, {"BeginOffset": 529, "EndOffset": 534, "Score": 0.7947665276027027, "Text": "a day", "Type": "QUANTITY"}, {"BeginOffset": 594, "EndOffset": 610, "Score": 0.9875248760458732, "Text": "La Veranda Hotel", "Type": "ORGANIZATION"}, {"BeginOffset": 671, "EndOffset": 675, "Score": 0.8274710786702615, "Text": "Euro", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 294}
+{"Entities": [], "File": "reviews.csv", "Line": 295}
+{"Entities": [], "File": "reviews.csv", "Line": 296}
+{"Entities": [{"BeginOffset": 45, "EndOffset": 48, "Score": 0.4203998423223567, "Text": "425", "Type": "OTHER"}], "File": "reviews.csv", "Line": 297}
+{"Entities": [{"BeginOffset": 47, "EndOffset": 57, "Score": 0.8379754477765788, "Text": "La Veranda", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 298}
+{"Entities": [{"BeginOffset": 156, "EndOffset": 165, "Score": 0.9962698666782895, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 229, "EndOffset": 237, "Score": 0.9988722422406006, "Text": "1 minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 299}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 20, "Score": 0.9596349911285661, "Text": "Christmas", "Type": "EVENT"}], "File": "reviews.csv", "Line": 300}
+{"Entities": [], "File": "reviews.csv", "Line": 301}
+{"Entities": [], "File": "reviews.csv", "Line": 302}
+{"Entities": [{"BeginOffset": 151, "EndOffset": 169, "Score": 0.975978938149548, "Text": "less than a minute", "Type": "QUANTITY"}, {"BeginOffset": 332, "EndOffset": 335, "Score": 0.8606791912458096, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 369, "EndOffset": 388, "Score": 0.9945197138187291, "Text": "less than 5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 303}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 16, "Score": 0.9349911715582562, "Text": "First", "Type": "QUANTITY"}, {"BeginOffset": 235, "EndOffset": 242, "Score": 0.9996496474855838, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 304}
+{"Entities": [], "File": "reviews.csv", "Line": 305}
+{"Entities": [{"BeginOffset": 53, "EndOffset": 62, "Score": 0.8340949826351854, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 126, "EndOffset": 130, "Score": 0.9990557359216155, "Text": "15 \u20ac", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 306}
+{"Entities": [{"BeginOffset": 176, "EndOffset": 188, "Score": 0.8415553535411187, "Text": "first moment", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 307}
+{"Entities": [], "File": "reviews.csv", "Line": 308}
+{"Entities": [{"BeginOffset": 35, "EndOffset": 44, "Score": 0.9550553039806041, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 73, "EndOffset": 79, "Score": 0.9996795489440699, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 101, "EndOffset": 116, "Score": 0.8046845665912261, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 127, "EndOffset": 141, "Score": 0.9961944042158989, "Text": "Mckenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 309}
+{"Entities": [], "File": "reviews.csv", "Line": 310}
+{"Entities": [{"BeginOffset": 180, "EndOffset": 191, "Score": 0.9964713819089482, "Text": "five minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 311}
+{"Entities": [], "File": "reviews.csv", "Line": 312}
+{"Entities": [{"BeginOffset": 52, "EndOffset": 61, "Score": 0.9980657946281333, "Text": "5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 313}
+{"Entities": [], "File": "reviews.csv", "Line": 314}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 45, "Score": 0.9925292476466122, "Text": "McKenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 57, "EndOffset": 66, "Score": 0.8161974125435398, "Text": "30 minute", "Type": "QUANTITY"}, {"BeginOffset": 195, "EndOffset": 202, "Score": 0.6679686965531688, "Text": "Netflix", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 315}
+{"Entities": [], "File": "reviews.csv", "Line": 316}
+{"Entities": [{"BeginOffset": 110, "EndOffset": 116, "Score": 0.8487149786635776, "Text": "Corona", "Type": "EVENT"}, {"BeginOffset": 141, "EndOffset": 151, "Score": 0.9993475902329617, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 157, "EndOffset": 172, "Score": 0.9155711461740199, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 179, "EndOffset": 188, "Score": 0.9535650071877817, "Text": "6 minutes", "Type": "QUANTITY"}, {"BeginOffset": 336, "EndOffset": 344, "Score": 0.951592122500373, "Text": "4 people", "Type": "QUANTITY"}, {"BeginOffset": 364, "EndOffset": 372, "Score": 0.6883298195346802, "Text": "one more", "Type": "QUANTITY"}, {"BeginOffset": 373, "EndOffset": 384, "Score": 0.5606409314164104, "Text": "double hook", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 317}
+{"Entities": [{"BeginOffset": 24, "EndOffset": 33, "Score": 0.9984465008657306, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 47, "EndOffset": 54, "Score": 0.534295305146612, "Text": "late at", "Type": "DATE"}, {"BeginOffset": 64, "EndOffset": 79, "Score": 0.9982800892320541, "Text": "Larnaca Airport", "Type": "LOCATION"}, {"BeginOffset": 111, "EndOffset": 119, "Score": 0.9879999911618735, "Text": "Limassol", "Type": "LOCATION"}, {"BeginOffset": 125, "EndOffset": 133, "Score": 0.9717166239394242, "Text": "next day", "Type": "DATE"}], "File": "reviews.csv", "Line": 318}
+{"Entities": [], "File": "reviews.csv", "Line": 319}
+{"Entities": [], "File": "reviews.csv", "Line": 320}
+{"Entities": [{"BeginOffset": 54, "EndOffset": 66, "Score": 0.9283937814437225, "Text": "around 10 am", "Type": "DATE"}], "File": "reviews.csv", "Line": 321}
+{"Entities": [{"BeginOffset": 35, "EndOffset": 40, "Score": 0.9976911331990548, "Text": "twice", "Type": "QUANTITY"}, {"BeginOffset": 165, "EndOffset": 174, "Score": 0.9979956077298997, "Text": "10 minute", "Type": "QUANTITY"}, {"BeginOffset": 183, "EndOffset": 197, "Score": 0.9981433846627492, "Text": "Makenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 322}
+{"Entities": [{"BeginOffset": 169, "EndOffset": 174, "Score": 0.9953491638167304, "Text": "7 min", "Type": "QUANTITY"}, {"BeginOffset": 344, "EndOffset": 347, "Score": 0.7347209740115622, "Text": "11,", "Type": "DATE"}, {"BeginOffset": 348, "EndOffset": 351, "Score": 0.639780735155279, "Text": "12,", "Type": "DATE"}, {"BeginOffset": 352, "EndOffset": 356, "Score": 0.8009218592535531, "Text": "1 AM", "Type": "DATE"}], "File": "reviews.csv", "Line": 323}
+{"Entities": [{"BeginOffset": 114, "EndOffset": 119, "Score": 0.9987267008467247, "Text": "5 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 324}
+{"Entities": [], "File": "reviews.csv", "Line": 325}
+{"Entities": [{"BeginOffset": 220, "EndOffset": 235, "Score": 0.8519030732291585, "Text": "Larnaca AirPort", "Type": "LOCATION"}, {"BeginOffset": 403, "EndOffset": 408, "Score": 0.9831114671116923, "Text": "10/10", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 326}
+{"Entities": [{"BeginOffset": 141, "EndOffset": 150, "Score": 0.9649533666863684, "Text": "50 meters", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 327}
+{"Entities": [], "File": "reviews.csv", "Line": 328}
+{"Entities": [], "File": "reviews.csv", "Line": 329}
+{"Entities": [], "File": "reviews.csv", "Line": 330}
+{"Entities": [{"BeginOffset": 335, "EndOffset": 344, "Score": 0.9885491188682183, "Text": "Cafe Nero", "Type": "ORGANIZATION"}, {"BeginOffset": 345, "EndOffset": 355, "Score": 0.9906648334746143, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 331}
+{"Entities": [], "File": "reviews.csv", "Line": 332}
+{"Entities": [{"BeginOffset": 203, "EndOffset": 210, "Score": 0.9896279450668115, "Text": "larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 333}
+{"Entities": [], "File": "reviews.csv", "Line": 334}
+{"Entities": [], "File": "reviews.csv", "Line": 335}
+{"Entities": [], "File": "reviews.csv", "Line": 336}
+{"Entities": [{"BeginOffset": 477, "EndOffset": 486, "Score": 0.9970096912702594, "Text": "4th floor", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 337}
+{"Entities": [{"BeginOffset": 27, "EndOffset": 30, "Score": 0.7607349204474031, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 414, "EndOffset": 421, "Score": 0.999623916970548, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 338}
+{"Entities": [], "File": "reviews.csv", "Line": 339}
+{"Entities": [{"BeginOffset": 20, "EndOffset": 27, "Score": 0.9957277495724375, "Text": "larnaca", "Type": "LOCATION"}, {"BeginOffset": 28, "EndOffset": 33, "Score": 0.5444472035823842, "Text": "every", "Type": "QUANTITY"}, {"BeginOffset": 55, "EndOffset": 65, "Score": 0.9952770752529536, "Text": "first time", "Type": "QUANTITY"}, {"BeginOffset": 69, "EndOffset": 71, "Score": 0.5699089045191822, "Text": "La", "Type": "ORGANIZATION"}, {"BeginOffset": 72, "EndOffset": 79, "Score": 0.5337826477382202, "Text": "Veranda", "Type": "LOCATION"}, {"BeginOffset": 88, "EndOffset": 92, "Score": 0.9970031388338523, "Text": "100%", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 340}
+{"Entities": [{"BeginOffset": 44, "EndOffset": 54, "Score": 0.9512679479960202, "Text": "La Veranda", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 341}
+{"Entities": [], "File": "reviews.csv", "Line": 342}
+{"Entities": [{"BeginOffset": 26, "EndOffset": 31, "Score": 0.9985430672636565, "Text": "5 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 343}
+{"Entities": [], "File": "reviews.csv", "Line": 344}
+{"Entities": [], "File": "reviews.csv", "Line": 345}
+{"Entities": [{"BeginOffset": 65, "EndOffset": 75, "Score": 0.8513759112766929, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 360, "EndOffset": 370, "Score": 0.9030538291029092, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 346}
+{"Entities": [{"BeginOffset": 73, "EndOffset": 80, "Score": 0.8741768495576486, "Text": "Cypriot", "Type": "PERSON"}], "File": "reviews.csv", "Line": 347}
+{"Entities": [], "File": "reviews.csv", "Line": 348}
+{"Entities": [{"BeginOffset": 10, "EndOffset": 16, "Score": 0.9981740139011289, "Text": "6 mins", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 349}
+{"Entities": [{"BeginOffset": 96, "EndOffset": 111, "Score": 0.9853021473281411, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 350}
+{"Entities": [], "File": "reviews.csv", "Line": 351}
+{"Entities": [], "File": "reviews.csv", "Line": 352}
+{"Entities": [], "File": "reviews.csv", "Line": 353}
+{"Entities": [{"BeginOffset": 24, "EndOffset": 34, "Score": 0.9232486338946991, "Text": "La Veranda", "Type": "ORGANIZATION"}, {"BeginOffset": 66, "EndOffset": 81, "Score": 0.7710385545866701, "Text": "Larnaka airport", "Type": "LOCATION"}, {"BeginOffset": 98, "EndOffset": 107, "Score": 0.9991952107558518, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 221, "EndOffset": 230, "Score": 0.9819620101491338, "Text": "one place", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 354}
+{"Entities": [], "File": "reviews.csv", "Line": 355}
+{"Entities": [], "File": "reviews.csv", "Line": 356}
+{"Entities": [], "File": "reviews.csv", "Line": 357}
+{"Entities": [], "File": "reviews.csv", "Line": 358}
+{"Entities": [], "File": "reviews.csv", "Line": 359}
+{"Entities": [{"BeginOffset": 28, "EndOffset": 43, "Score": 0.9612238193149767, "Text": "Makanzie Beach6", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 360}
+{"Entities": [{"BeginOffset": 95, "EndOffset": 102, "Score": 0.8903278982070332, "Text": "Makenzy", "Type": "LOCATION"}, {"BeginOffset": 107, "EndOffset": 116, "Score": 0.9584736777134347, "Text": "Salt Lake", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 361}
+{"Entities": [], "File": "reviews.csv", "Line": 362}
+{"Entities": [{"BeginOffset": 108, "EndOffset": 114, "Score": 0.9987379853001238, "Text": "5 mins", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 363}
+{"Entities": [{"BeginOffset": 101, "EndOffset": 113, "Score": 0.9899240942963593, "Text": "next morning", "Type": "DATE"}, {"BeginOffset": 223, "EndOffset": 230, "Score": 0.999177774906028, "Text": "Larnaka", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 364}
+{"Entities": [], "File": "reviews.csv", "Line": 365}
+{"Entities": [{"BeginOffset": 106, "EndOffset": 113, "Score": 0.9996582246165773, "Text": "larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 366}
+{"Entities": [], "File": "reviews.csv", "Line": 367}
+{"Entities": [], "File": "reviews.csv", "Line": 368}
+{"Entities": [], "File": "reviews.csv", "Line": 369}
+{"Entities": [], "File": "reviews.csv", "Line": 370}
+{"Entities": [{"BeginOffset": 97, "EndOffset": 107, "Score": 0.9994223480118264, "Text": "15 minutes", "Type": "QUANTITY"}, {"BeginOffset": 132, "EndOffset": 139, "Score": 0.9886788620343383, "Text": "15 walk", "Type": "QUANTITY"}, {"BeginOffset": 160, "EndOffset": 176, "Score": 0.9895493872185234, "Text": "about 300 meters", "Type": "QUANTITY"}, {"BeginOffset": 219, "EndOffset": 229, "Score": 0.9943421244263075, "Text": "3 channels", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 371}
+{"Entities": [], "File": "reviews.csv", "Line": 372}
+{"Entities": [{"BeginOffset": 164, "EndOffset": 178, "Score": 0.9045096203322291, "Text": "mckenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 373}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 18, "Score": 0.9997506763354627, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 278, "EndOffset": 282, "Score": 0.9951606290105433, "Text": "both", "Type": "QUANTITY"}, {"BeginOffset": 346, "EndOffset": 353, "Score": 0.9993470405441258, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 518, "EndOffset": 528, "Score": 0.9672735928799825, "Text": "first stay", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 374}
+{"Entities": [{"BeginOffset": 56, "EndOffset": 62, "Score": 0.9948607654871203, "Text": "5 star", "Type": "QUANTITY"}, {"BeginOffset": 86, "EndOffset": 94, "Score": 0.9992548592447265, "Text": "5 minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 375}
+{"Entities": [{"BeginOffset": 33, "EndOffset": 41, "Score": 0.9977215266548124, "Text": "5th time", "Type": "QUANTITY"}, {"BeginOffset": 108, "EndOffset": 113, "Score": 0.9019820453999399, "Text": "5star", "Type": "QUANTITY"}, {"BeginOffset": 143, "EndOffset": 159, "Score": 0.9932297327836825, "Text": "La Vernada Hotel", "Type": "ORGANIZATION"}, {"BeginOffset": 246, "EndOffset": 251, "Score": 0.8869893771844587, "Text": "5star", "Type": "QUANTITY"}, {"BeginOffset": 433, "EndOffset": 458, "Score": 0.8658788667149984, "Text": "Konstantinos Charalambous", "Type": "PERSON"}], "File": "reviews.csv", "Line": 376}
+{"Entities": [], "File": "reviews.csv", "Line": 377}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 38, "Score": 0.9760153922052905, "Text": "1 night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 378}
+{"Entities": [{"BeginOffset": 349, "EndOffset": 356, "Score": 0.9984992649218699, "Text": "Larnaka", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 379}
+{"Entities": [], "File": "reviews.csv", "Line": 380}
+{"Entities": [{"BeginOffset": 209, "EndOffset": 213, "Score": 0.9932780975642378, "Text": "Maha", "Type": "PERSON"}, {"BeginOffset": 341, "EndOffset": 348, "Score": 0.9998138297528844, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 422, "EndOffset": 426, "Score": 0.9981143336047974, "Text": "7min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 381}
+{"Entities": [], "File": "reviews.csv", "Line": 382}
+{"Entities": [], "File": "reviews.csv", "Line": 383}
+{"Entities": [], "File": "reviews.csv", "Line": 384}
+{"Entities": [{"BeginOffset": 23, "EndOffset": 27, "Score": 0.9997671192939102, "Text": "Tony", "Type": "PERSON"}, {"BeginOffset": 32, "EndOffset": 38, "Score": 0.9994065708720934, "Text": "Joanna", "Type": "PERSON"}, {"BeginOffset": 94, "EndOffset": 101, "Score": 0.9958958485207707, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 141, "EndOffset": 143, "Score": 0.999528034853262, "Text": "US", "Type": "LOCATION"}, {"BeginOffset": 216, "EndOffset": 220, "Score": 0.9998489846428079, "Text": "Tony", "Type": "PERSON"}, {"BeginOffset": 485, "EndOffset": 494, "Score": 0.979070970802633, "Text": "2 bedroom", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 385}
+{"Entities": [], "File": "reviews.csv", "Line": 386}
+{"Entities": [], "File": "reviews.csv", "Line": 387}
+{"Entities": [{"BeginOffset": 150, "EndOffset": 159, "Score": 0.9992169590955465, "Text": "5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 388}
+{"Entities": [{"BeginOffset": 97, "EndOffset": 113, "Score": 0.9669443915793977, "Text": "about 10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 192, "EndOffset": 196, "Score": 0.9513183263834857, "Text": "both", "Type": "QUANTITY"}, {"BeginOffset": 217, "EndOffset": 223, "Score": 0.5765584875545384, "Text": "double", "Type": "QUANTITY"}, {"BeginOffset": 224, "EndOffset": 228, "Score": 0.7725170992588297, "Text": "room", "Type": "OTHER"}, {"BeginOffset": 546, "EndOffset": 553, "Score": 0.9993369210533911, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 245}
+{"Entities": [], "File": "reviews.csv", "Line": 246}
+{"Entities": [{"BeginOffset": 279, "EndOffset": 288, "Score": 0.9510592607070197, "Text": "past 9 pm", "Type": "DATE"}, {"BeginOffset": 348, "EndOffset": 359, "Score": 0.9774700071286394, "Text": "10 channels", "Type": "QUANTITY"}, {"BeginOffset": 361, "EndOffset": 365, "Score": 0.956837637498207, "Text": "half", "Type": "QUANTITY"}, {"BeginOffset": 369, "EndOffset": 374, "Score": 0.9536024415869611, "Text": "Greek", "Type": "OTHER"}, {"BeginOffset": 379, "EndOffset": 383, "Score": 0.9561133811907002, "Text": "half", "Type": "QUANTITY"}, {"BeginOffset": 387, "EndOffset": 394, "Score": 0.9600805723402728, "Text": "Russian", "Type": "OTHER"}, {"BeginOffset": 406, "EndOffset": 409, "Score": 0.994813186670069, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 413, "EndOffset": 416, "Score": 0.9780599553811207, "Text": "two", "Type": "QUANTITY"}, {"BeginOffset": 420, "EndOffset": 427, "Score": 0.9824762282876441, "Text": "English", "Type": "OTHER"}], "File": "reviews.csv", "Line": 247}
+{"Entities": [], "File": "reviews.csv", "Line": 248}
+{"Entities": [{"BeginOffset": 52, "EndOffset": 55, "Score": 0.8704609684912831, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 104, "EndOffset": 115, "Score": 0.9810638459157901, "Text": "Booking.Com", "Type": "ORGANIZATION"}, {"BeginOffset": 422, "EndOffset": 429, "Score": 0.9792210751446073, "Text": "Richard", "Type": "PERSON"}], "File": "reviews.csv", "Line": 249}
+{"Entities": [], "File": "reviews.csv", "Line": 250}
+{"Entities": [], "File": "reviews.csv", "Line": 251}
+{"Entities": [], "File": "reviews.csv", "Line": 252}
+{"Entities": [], "File": "reviews.csv", "Line": 253}
+{"Entities": [], "File": "reviews.csv", "Line": 254}
+{"Entities": [], "File": "reviews.csv", "Line": 255}
+{"Entities": [], "File": "reviews.csv", "Line": 256}
+{"Entities": [], "File": "reviews.csv", "Line": 257}
+{"Entities": [{"BeginOffset": 63, "EndOffset": 70, "Score": 0.9993246589152885, "Text": "larnaca", "Type": "LOCATION"}, {"BeginOffset": 205, "EndOffset": 220, "Score": 0.990616778534021, "Text": "two foot towels", "Type": "QUANTITY"}, {"BeginOffset": 238, "EndOffset": 241, "Score": 0.9825181143253318, "Text": "one", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 258}
+{"Entities": [{"BeginOffset": 71, "EndOffset": 78, "Score": 0.999095636112797, "Text": "10 mins", "Type": "QUANTITY"}, {"BeginOffset": 87, "EndOffset": 102, "Score": 0.9989668773615792, "Text": "Mackenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 107, "EndOffset": 114, "Score": 0.9966194126038418, "Text": "40 mins", "Type": "QUANTITY"}, {"BeginOffset": 116, "EndOffset": 120, "Score": 0.998756125428714, "Text": "3 km", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 259}
+{"Entities": [], "File": "reviews.csv", "Line": 260}
+{"Entities": [{"BeginOffset": 123, "EndOffset": 130, "Score": 0.9996233213811837, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 236, "EndOffset": 245, "Score": 0.999106268971537, "Text": "6 minutes", "Type": "QUANTITY"}, {"BeginOffset": 255, "EndOffset": 258, "Score": 0.992480826550516, "Text": "\u20ac20", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 261}
+{"Entities": [{"BeginOffset": 60, "EndOffset": 64, "Score": 0.6848268729422216, "Text": "four", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 262}
+{"Entities": [], "File": "reviews.csv", "Line": 263}
+{"Entities": [{"BeginOffset": 67, "EndOffset": 71, "Score": 0.9992700542715617, "Text": "11pm", "Type": "DATE"}, {"BeginOffset": 105, "EndOffset": 114, "Score": 0.9956611847460848, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 122, "EndOffset": 128, "Score": 0.9925202355919897, "Text": "5 star", "Type": "QUANTITY"}, {"BeginOffset": 261, "EndOffset": 272, "Score": 0.8817841655772974, "Text": "\u00a350 a night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 264}
+{"Entities": [], "File": "reviews.csv", "Line": 265}
+{"Entities": [], "File": "reviews.csv", "Line": 266}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 21, "Score": 0.9173080773008123, "Text": "La Veranda", "Type": "ORGANIZATION"}, {"BeginOffset": 85, "EndOffset": 89, "Score": 0.9474564587591645, "Text": "both", "Type": "QUANTITY"}, {"BeginOffset": 150, "EndOffset": 165, "Score": 0.9995182690362682, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 267}
+{"Entities": [], "File": "reviews.csv", "Line": 268}
+{"Entities": [], "File": "reviews.csv", "Line": 269}
+{"Entities": [{"BeginOffset": 94, "EndOffset": 103, "Score": 0.9977128053324275, "Text": "30 meters", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 270}
+{"Entities": [{"BeginOffset": 10, "EndOffset": 26, "Score": 0.9685856446393204, "Text": "La Veranda Hotel", "Type": "ORGANIZATION"}, {"BeginOffset": 138, "EndOffset": 153, "Score": 0.9706100403633483, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 271}
+{"Entities": [{"BeginOffset": 19, "EndOffset": 30, "Score": 0.9967812139176577, "Text": "second time", "Type": "QUANTITY"}, {"BeginOffset": 34, "EndOffset": 44, "Score": 0.8143865915680362, "Text": "La Veranda", "Type": "ORGANIZATION"}, {"BeginOffset": 81, "EndOffset": 84, "Score": 0.9379289838671827, "Text": "one", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 272}
+{"Entities": [{"BeginOffset": 47, "EndOffset": 63, "Score": 0.9500135759249452, "Text": "La Veranda Hotel", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 273}
+{"Entities": [], "File": "reviews.csv", "Line": 274}
+{"Entities": [{"BeginOffset": 81, "EndOffset": 87, "Score": 0.9989205953004539, "Text": "45 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 275}
+{"Entities": [{"BeginOffset": 197, "EndOffset": 198, "Score": 0.9992781132195773, "Text": "3", "Type": "QUANTITY"}, {"BeginOffset": 202, "EndOffset": 203, "Score": 0.9571545774115814, "Text": "1", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 276}
+{"Entities": [], "File": "reviews.csv", "Line": 277}
+{"Entities": [{"BeginOffset": 279, "EndOffset": 288, "Score": 0.9976561346808581, "Text": "$10 euros", "Type": "QUANTITY"}, {"BeginOffset": 373, "EndOffset": 389, "Score": 0.9752535150122917, "Text": "approx 10 minute", "Type": "QUANTITY"}, {"BeginOffset": 417, "EndOffset": 426, "Score": 0.9989057655422415, "Text": "20 minute", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 278}
+{"Entities": [{"BeginOffset": 260, "EndOffset": 268, "Score": 0.9864822452881014, "Text": "Limassol", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 279}
+{"Entities": [], "File": "reviews.csv", "Line": 280}
+{"Entities": [], "File": "reviews.csv", "Line": 389}
+{"Entities": [{"BeginOffset": 85, "EndOffset": 110, "Score": 0.8647156712832701, "Text": "Mackenzie Beach promenade", "Type": "LOCATION"}, {"BeginOffset": 114, "EndOffset": 119, "Score": 0.998329645218938, "Text": "5 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 390}
+{"Entities": [], "File": "reviews.csv", "Line": 391}
+{"Entities": [], "File": "reviews.csv", "Line": 392}
+{"Entities": [{"BeginOffset": 92, "EndOffset": 99, "Score": 0.9995136243643282, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 197, "EndOffset": 206, "Score": 0.9994477107594845, "Text": "7 minutes", "Type": "QUANTITY"}, {"BeginOffset": 261, "EndOffset": 268, "Score": 0.997681470434922, "Text": "10 mins", "Type": "QUANTITY"}, {"BeginOffset": 278, "EndOffset": 292, "Score": 0.9720903508824831, "Text": "Larnaca centre", "Type": "LOCATION"}, {"BeginOffset": 293, "EndOffset": 300, "Score": 0.9968807892733851, "Text": "10 mins", "Type": "QUANTITY"}, {"BeginOffset": 311, "EndOffset": 324, "Score": 0.9720028923304102, "Text": "about 30 mins", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 393}
+{"Entities": [], "File": "reviews.csv", "Line": 394}
+{"Entities": [], "File": "reviews.csv", "Line": 395}
+{"Entities": [], "File": "reviews.csv", "Line": 396}
+{"Entities": [{"BeginOffset": 34, "EndOffset": 41, "Score": 0.9060163667809632, "Text": "Netflix", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 397}
+{"Entities": [{"BeginOffset": 162, "EndOffset": 164, "Score": 0.9435073728611126, "Text": "12", "Type": "DATE"}], "File": "reviews.csv", "Line": 398}
+{"Entities": [{"BeginOffset": 363, "EndOffset": 369, "Score": 0.9960687347386936, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 381, "EndOffset": 391, "Score": 0.8334913820769096, "Text": "La Veranda", "Type": "ORGANIZATION"}, {"BeginOffset": 734, "EndOffset": 744, "Score": 0.9980880217319338, "Text": "one bottle", "Type": "QUANTITY"}, {"BeginOffset": 787, "EndOffset": 795, "Score": 0.9983936569885403, "Text": "5 nights", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 399}
+{"Entities": [], "File": "reviews.csv", "Line": 400}
+{"Entities": [{"BeginOffset": 30, "EndOffset": 45, "Score": 0.9987621213137363, "Text": "Mackenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 51, "EndOffset": 56, "Score": 0.9923317032613027, "Text": "2 min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 401}
+{"Entities": [], "File": "reviews.csv", "Line": 402}
+{"Entities": [], "File": "reviews.csv", "Line": 403}
+{"Entities": [{"BeginOffset": 74, "EndOffset": 81, "Score": 0.9977135604177348, "Text": "lebanon", "Type": "LOCATION"}, {"BeginOffset": 260, "EndOffset": 267, "Score": 0.9989558643100753, "Text": "richard", "Type": "PERSON"}, {"BeginOffset": 444, "EndOffset": 446, "Score": 0.9852301145635518, "Text": "5*", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 404}
+{"Entities": [{"BeginOffset": 91, "EndOffset": 100, "Score": 0.9995949721364603, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 109, "EndOffset": 123, "Score": 0.9969450423667817, "Text": "Makkenzy beach", "Type": "LOCATION"}, {"BeginOffset": 197, "EndOffset": 207, "Score": 0.9989813307022359, "Text": "30 minutes", "Type": "QUANTITY"}, {"BeginOffset": 229, "EndOffset": 239, "Score": 0.9981149091808654, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 405}
+{"Entities": [{"BeginOffset": 38, "EndOffset": 43, "Score": 0.9132429783478685, "Text": "greek", "Type": "OTHER"}, {"BeginOffset": 100, "EndOffset": 109, "Score": 0.9991870310521684, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 406}
+{"Entities": [], "File": "reviews.csv", "Line": 407}
+{"Entities": [], "File": "reviews.csv", "Line": 408}
+{"Entities": [{"BeginOffset": 49, "EndOffset": 51, "Score": 0.9902535324298121, "Text": "10", "Type": "QUANTITY"}, {"BeginOffset": 118, "EndOffset": 125, "Score": 0.99964226174479, "Text": "Larnaka", "Type": "LOCATION"}, {"BeginOffset": 180, "EndOffset": 189, "Score": 0.9974663115032044, "Text": "Salt Lake", "Type": "LOCATION"}, {"BeginOffset": 253, "EndOffset": 262, "Score": 0.9932899188613656, "Text": "10 minute", "Type": "QUANTITY"}, {"BeginOffset": 282, "EndOffset": 297, "Score": 0.8265027485314078, "Text": "MacKenzie beach", "Type": "LOCATION"}, {"BeginOffset": 365, "EndOffset": 372, "Score": 0.9997846352038625, "Text": "Larnaka", "Type": "LOCATION"}, {"BeginOffset": 838, "EndOffset": 845, "Score": 0.827421364475064, "Text": "couples", "Type": "QUANTITY"}, {"BeginOffset": 942, "EndOffset": 952, "Score": 0.5108869592065023, "Text": "double bed", "Type": "OTHER"}, {"BeginOffset": 1089, "EndOffset": 1095, "Score": 0.9984928469495157, "Text": "Cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 409}
+{"Entities": [], "File": "reviews.csv", "Line": 410}
+{"Entities": [{"BeginOffset": 152, "EndOffset": 155, "Score": 0.604810458771798, "Text": "190", "Type": "OTHER"}], "File": "reviews.csv", "Line": 411}
+{"Entities": [], "File": "reviews.csv", "Line": 412}
+{"Entities": [], "File": "reviews.csv", "Line": 413}
+{"Entities": [{"BeginOffset": 37, "EndOffset": 46, "Score": 0.9988858015160779, "Text": "Mackenzie", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 414}
+{"Entities": [], "File": "reviews.csv", "Line": 415}
+{"Entities": [{"BeginOffset": 35, "EndOffset": 43, "Score": 0.9502548541871356, "Text": "7-10 min", "Type": "QUANTITY"}, {"BeginOffset": 53, "EndOffset": 56, "Score": 0.9993546012316319, "Text": "15\u20ac", "Type": "QUANTITY"}, {"BeginOffset": 205, "EndOffset": 208, "Score": 0.8857183078347607, "Text": "one", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 416}
+{"Entities": [], "File": "reviews.csv", "Line": 417}
+{"Entities": [], "File": "reviews.csv", "Line": 418}
+{"Entities": [], "File": "reviews.csv", "Line": 419}
+{"Entities": [{"BeginOffset": 43, "EndOffset": 56, "Score": 0.709788137259277, "Text": "Makenzy beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 420}
+{"Entities": [], "File": "reviews.csv", "Line": 421}
+{"Entities": [{"BeginOffset": 42, "EndOffset": 52, "Score": 0.9404799659225059, "Text": "La Veranda", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 422}
+{"Entities": [{"BeginOffset": 34, "EndOffset": 40, "Score": 0.7678650621649656, "Text": "family", "Type": "QUANTITY"}, {"BeginOffset": 44, "EndOffset": 48, "Score": 0.7862442383174744, "Text": "five", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 423}
+{"Entities": [{"BeginOffset": 362, "EndOffset": 371, "Score": 0.5854788999973191, "Text": "Earl Grey", "Type": "PERSON"}, {"BeginOffset": 460, "EndOffset": 462, "Score": 0.7112177182626811, "Text": "EU", "Type": "ORGANIZATION"}, {"BeginOffset": 620, "EndOffset": 631, "Score": 0.9931314568733992, "Text": "booking.com", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 424}
+{"Entities": [{"BeginOffset": 102, "EndOffset": 109, "Score": 0.9993268940512131, "Text": "2 times", "Type": "QUANTITY"}, {"BeginOffset": 124, "EndOffset": 129, "Score": 0.8606509768464577, "Text": "4 a.m", "Type": "DATE"}], "File": "reviews.csv", "Line": 425}
+{"Entities": [], "File": "reviews.csv", "Line": 426}
+{"Entities": [], "File": "reviews.csv", "Line": 427}
+{"Entities": [], "File": "reviews.csv", "Line": 428}
+{"Entities": [{"BeginOffset": 66, "EndOffset": 73, "Score": 0.7678706916894864, "Text": "Windows", "Type": "TITLE"}], "File": "reviews.csv", "Line": 429}
+{"Entities": [], "File": "reviews.csv", "Line": 430}
+{"Entities": [{"BeginOffset": 63, "EndOffset": 77, "Score": 0.9976294505526132, "Text": "Mckenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 431}
+{"Entities": [{"BeginOffset": 708, "EndOffset": 711, "Score": 0.9972557760989486, "Text": "1pm", "Type": "DATE"}, {"BeginOffset": 821, "EndOffset": 825, "Score": 0.9988407564218731, "Text": "12pm", "Type": "DATE"}], "File": "reviews.csv", "Line": 432}
+{"Entities": [], "File": "reviews.csv", "Line": 433}
+{"Entities": [], "File": "reviews.csv", "Line": 434}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 16, "Score": 0.9997766516938639, "Text": "Maria", "Type": "PERSON"}, {"BeginOffset": 21, "EndOffset": 28, "Score": 0.9991759896925276, "Text": "Richard", "Type": "PERSON"}, {"BeginOffset": 79, "EndOffset": 84, "Score": 0.9975767586484284, "Text": "Maria", "Type": "PERSON"}, {"BeginOffset": 184, "EndOffset": 193, "Score": 0.99711293903232, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 278, "EndOffset": 281, "Score": 0.9011878553672256, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 448, "EndOffset": 461, "Score": 0.6836778277691402, "Text": "early morning", "Type": "DATE"}, {"BeginOffset": 519, "EndOffset": 527, "Score": 0.9996559611731926, "Text": "Valencia", "Type": "LOCATION"}, {"BeginOffset": 537, "EndOffset": 559, "Score": 0.9946011284281561, "Text": "one small water bottle", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 435}
+{"Entities": [{"BeginOffset": 178, "EndOffset": 186, "Score": 0.98079677572891, "Text": "one time", "Type": "QUANTITY"}, {"BeginOffset": 254, "EndOffset": 259, "Score": 0.8230545364845175, "Text": "greek", "Type": "OTHER"}], "File": "reviews.csv", "Line": 436}
+{"Entities": [{"BeginOffset": 80, "EndOffset": 95, "Score": 0.8304055890603481, "Text": "Larnaka airport", "Type": "LOCATION"}, {"BeginOffset": 172, "EndOffset": 190, "Score": 0.993520676727573, "Text": "23 degrees Celsius", "Type": "QUANTITY"}, {"BeginOffset": 503, "EndOffset": 507, "Score": 0.9816382868048456, "Text": "3 am", "Type": "DATE"}, {"BeginOffset": 610, "EndOffset": 613, "Score": 0.9989033807411652, "Text": "5am", "Type": "DATE"}], "File": "reviews.csv", "Line": 437}
+{"Entities": [{"BeginOffset": 151, "EndOffset": 157, "Score": 0.9997131455434768, "Text": "Cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 438}
+{"Entities": [], "File": "reviews.csv", "Line": 439}
+{"Entities": [], "File": "reviews.csv", "Line": 440}
+{"Entities": [], "File": "reviews.csv", "Line": 441}
+{"Entities": [], "File": "reviews.csv", "Line": 442}
+{"Entities": [{"BeginOffset": 69, "EndOffset": 74, "Score": 0.9984209477417432, "Text": "15min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 443}
+{"Entities": [], "File": "reviews.csv", "Line": 444}
+{"Entities": [], "File": "reviews.csv", "Line": 445}
+{"Entities": [], "File": "reviews.csv", "Line": 446}
+{"Entities": [{"BeginOffset": 112, "EndOffset": 115, "Score": 0.9809639192407977, "Text": "one", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 473}
+{"Entities": [{"BeginOffset": 286, "EndOffset": 290, "Score": 0.9969415317998239, "Text": "Tony", "Type": "PERSON"}, {"BeginOffset": 375, "EndOffset": 383, "Score": 0.9641017663489857, "Text": "WhatsApp", "Type": "TITLE"}], "File": "reviews.csv", "Line": 475}
+{"Entities": [], "File": "reviews.csv", "Line": 476}
+{"Entities": [], "File": "reviews.csv", "Line": 477}
+{"Entities": [{"BeginOffset": 174, "EndOffset": 186, "Score": 0.9649713524747775, "Text": "up to 10 EUR", "Type": "QUANTITY"}, {"BeginOffset": 235, "EndOffset": 238, "Score": 0.9982162487418762, "Text": "3km", "Type": "QUANTITY"}, {"BeginOffset": 286, "EndOffset": 290, "Score": 0.9954883484058104, "Text": "500m", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 478}
+{"Entities": [{"BeginOffset": 10, "EndOffset": 16, "Score": 0.7539030911645316, "Text": "French", "Type": "OTHER"}], "File": "reviews.csv", "Line": 479}
+{"Entities": [{"BeginOffset": 42, "EndOffset": 48, "Score": 0.9996448824834001, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 97, "EndOffset": 101, "Score": 0.6093013349110066, "Text": "Waze", "Type": "ORGANIZATION"}, {"BeginOffset": 215, "EndOffset": 221, "Score": 0.4844315251336575, "Text": "second", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 480}
+{"Entities": [], "File": "reviews.csv", "Line": 481}
+{"Entities": [], "File": "reviews.csv", "Line": 482}
+{"Entities": [], "File": "reviews.csv", "Line": 483}
+{"Entities": [], "File": "reviews.csv", "Line": 484}
+{"Entities": [], "File": "reviews.csv", "Line": 485}
+{"Entities": [], "File": "reviews.csv", "Line": 486}
+{"Entities": [], "File": "reviews.csv", "Line": 487}
+{"Entities": [{"BeginOffset": 44, "EndOffset": 58, "Score": 0.8550393325854456, "Text": "Early November", "Type": "DATE"}, {"BeginOffset": 142, "EndOffset": 152, "Score": 0.9993637136765344, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 171, "EndOffset": 181, "Score": 0.9989048906212649, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 488}
+{"Entities": [], "File": "reviews.csv", "Line": 489}
+{"Entities": [{"BeginOffset": 41, "EndOffset": 50, "Score": 0.9505822503096809, "Text": "each room", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 490}
+{"Entities": [], "File": "reviews.csv", "Line": 491}
+{"Entities": [], "File": "reviews.csv", "Line": 492}
+{"Entities": [{"BeginOffset": 58, "EndOffset": 67, "Score": 0.9986491598990075, "Text": "7 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 493}
+{"Entities": [{"BeginOffset": 27, "EndOffset": 37, "Score": 0.999490467171329, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 70, "EndOffset": 80, "Score": 0.9994920161327487, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 132, "EndOffset": 142, "Score": 0.9994992781813316, "Text": "40 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 494}
+{"Entities": [], "File": "reviews.csv", "Line": 495}
+{"Entities": [{"BeginOffset": 33, "EndOffset": 48, "Score": 0.9055729538342396, "Text": "LaVeranda Hotel", "Type": "ORGANIZATION"}, {"BeginOffset": 53, "EndOffset": 62, "Score": 0.9982868672101091, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 81, "EndOffset": 87, "Score": 0.9972061706780244, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 143, "EndOffset": 153, "Score": 0.9235692714408394, "Text": "last night", "Type": "DATE"}, {"BeginOffset": 479, "EndOffset": 491, "Score": 0.9749272073008697, "Text": "next morning", "Type": "DATE"}, {"BeginOffset": 493, "EndOffset": 500, "Score": 0.9653218106214101, "Text": "7:00 am", "Type": "DATE"}, {"BeginOffset": 503, "EndOffset": 518, "Score": 0.9884333570323268, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 496}
+{"Entities": [], "File": "reviews.csv", "Line": 497}
+{"Entities": [], "File": "reviews.csv", "Line": 498}
+{"Entities": [{"BeginOffset": 127, "EndOffset": 138, "Score": 0.7816605404888735, "Text": "google maps", "Type": "TITLE"}, {"BeginOffset": 348, "EndOffset": 351, "Score": 0.9990858536721532, "Text": "3am", "Type": "DATE"}], "File": "reviews.csv", "Line": 499}
+{"Entities": [], "File": "reviews.csv", "Line": 500}
+{"Entities": [], "File": "reviews.csv", "Line": 501}
+{"Entities": [], "File": "reviews.csv", "Line": 502}
+{"Entities": [], "File": "reviews.csv", "Line": 503}
+{"Entities": [], "File": "reviews.csv", "Line": 504}
+{"Entities": [], "File": "reviews.csv", "Line": 505}
+{"Entities": [], "File": "reviews.csv", "Line": 506}
+{"Entities": [], "File": "reviews.csv", "Line": 507}
+{"Entities": [], "File": "reviews.csv", "Line": 508}
+{"Entities": [], "File": "reviews.csv", "Line": 509}
+{"Entities": [{"BeginOffset": 77, "EndOffset": 86, "Score": 0.9975239446326051, "Text": "third bed", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 510}
+{"Entities": [], "File": "reviews.csv", "Line": 511}
+{"Entities": [{"BeginOffset": 48, "EndOffset": 55, "Score": 0.9994344335665926, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 512}
+{"Entities": [{"BeginOffset": 288, "EndOffset": 289, "Score": 0.9640129080924199, "Text": "5", "Type": "QUANTITY"}, {"BeginOffset": 319, "EndOffset": 328, "Score": 0.9969761297843843, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 513}
+{"Entities": [], "File": "reviews.csv", "Line": 514}
+{"Entities": [], "File": "reviews.csv", "Line": 515}
+{"Entities": [], "File": "reviews.csv", "Line": 516}
+{"Entities": [], "File": "reviews.csv", "Line": 517}
+{"Entities": [], "File": "reviews.csv", "Line": 518}
+{"Entities": [{"BeginOffset": 59, "EndOffset": 65, "Score": 0.8629104557883751, "Text": "French", "Type": "OTHER"}, {"BeginOffset": 126, "EndOffset": 133, "Score": 0.9978055341052188, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 268, "EndOffset": 274, "Score": 0.999623916970548, "Text": "France", "Type": "LOCATION"}, {"BeginOffset": 335, "EndOffset": 338, "Score": 0.9989787424927192, "Text": "4am", "Type": "DATE"}], "File": "reviews.csv", "Line": 519}
+{"Entities": [], "File": "reviews.csv", "Line": 520}
+{"Entities": [], "File": "reviews.csv", "Line": 521}
+{"Entities": [{"BeginOffset": 263, "EndOffset": 267, "Score": 0.9984226120619208, "Text": "100%", "Type": "QUANTITY"}, {"BeginOffset": 281, "EndOffset": 285, "Score": 0.9997933338125298, "Text": "Tony", "Type": "PERSON"}], "File": "reviews.csv", "Line": 522}
+{"Entities": [], "File": "reviews.csv", "Line": 523}
+{"Entities": [{"BeginOffset": 41, "EndOffset": 56, "Score": 0.936343328304147, "Text": "Larnaca airport", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 524}
+{"Entities": [{"BeginOffset": 57, "EndOffset": 72, "Score": 0.9972393363071723, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 525}
+{"Entities": [], "File": "reviews.csv", "Line": 526}
+{"Entities": [{"BeginOffset": 114, "EndOffset": 129, "Score": 0.9214982556087213, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 134, "EndOffset": 148, "Score": 0.9447381158480493, "Text": "mckenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 527}
+{"Entities": [], "File": "reviews.csv", "Line": 528}
+{"Entities": [{"BeginOffset": 30, "EndOffset": 35, "Score": 0.9156447579098342, "Text": "10/10", "Type": "QUANTITY"}, {"BeginOffset": 55, "EndOffset": 60, "Score": 0.8738893423749986, "Text": "10/10", "Type": "QUANTITY"}, {"BeginOffset": 69, "EndOffset": 74, "Score": 0.9722380558341928, "Text": "10/10", "Type": "QUANTITY"}, {"BeginOffset": 101, "EndOffset": 106, "Score": 0.718837683957741, "Text": "07/10", "Type": "QUANTITY"}, {"BeginOffset": 168, "EndOffset": 173, "Score": 0.7054565737084636, "Text": "08/10", "Type": "QUANTITY"}, {"BeginOffset": 241, "EndOffset": 246, "Score": 0.6419864182719722, "Text": "08/10", "Type": "QUANTITY"}, {"BeginOffset": 260, "EndOffset": 261, "Score": 0.9979051222191712, "Text": "1", "Type": "QUANTITY"}, {"BeginOffset": 265, "EndOffset": 266, "Score": 0.9897637438919807, "Text": "1", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 529}
+{"Entities": [], "File": "reviews.csv", "Line": 530}
+{"Entities": [], "File": "reviews.csv", "Line": 531}
+{"Entities": [{"BeginOffset": 35, "EndOffset": 46, "Score": 0.9650377644293875, "Text": "a few hours", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 532}
+{"Entities": [{"BeginOffset": 204, "EndOffset": 212, "Score": 0.9288645218194028, "Text": "Lebanese", "Type": "OTHER"}], "File": "reviews.csv", "Line": 533}
+{"Entities": [], "File": "reviews.csv", "Line": 534}
+{"Entities": [], "File": "reviews.csv", "Line": 535}
+{"Entities": [], "File": "reviews.csv", "Line": 536}
+{"Entities": [{"BeginOffset": 10, "EndOffset": 17, "Score": 0.5176928444118234, "Text": "Terrace", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 537}
+{"Entities": [{"BeginOffset": 301, "EndOffset": 310, "Score": 0.9987461749894068, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 538}
+{"Entities": [], "File": "reviews.csv", "Line": 539}
+{"Entities": [{"BeginOffset": 161, "EndOffset": 170, "Score": 0.9994079435841202, "Text": "8 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 540}
+{"Entities": [{"BeginOffset": 56, "EndOffset": 60, "Score": 0.9745487863965454, "Text": "both", "Type": "QUANTITY"}, {"BeginOffset": 77, "EndOffset": 92, "Score": 0.9990227007781003, "Text": "Mackenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 97, "EndOffset": 112, "Score": 0.9985679833608588, "Text": "fifteen minutes", "Type": "QUANTITY"}, {"BeginOffset": 157, "EndOffset": 167, "Score": 0.9845722790495846, "Text": "Finikoudes", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 541}
+{"Entities": [], "File": "reviews.csv", "Line": 542}
+{"Entities": [], "File": "reviews.csv", "Line": 543}
+{"Entities": [], "File": "reviews.csv", "Line": 544}
+{"Entities": [], "File": "reviews.csv", "Line": 545}
+{"Entities": [], "File": "reviews.csv", "Line": 546}
+{"Entities": [], "File": "reviews.csv", "Line": 547}
+{"Entities": [{"BeginOffset": 10, "EndOffset": 16, "Score": 0.7171707013220612, "Text": "Arabic", "Type": "OTHER"}], "File": "reviews.csv", "Line": 548}
+{"Entities": [{"BeginOffset": 118, "EndOffset": 122, "Score": 0.9505936760434824, "Text": "both", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 549}
+{"Entities": [{"BeginOffset": 69, "EndOffset": 73, "Score": 0.9998607829329756, "Text": "Tony", "Type": "PERSON"}], "File": "reviews.csv", "Line": 550}
+{"Entities": [{"BeginOffset": 165, "EndOffset": 168, "Score": 0.961405596133099, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 176, "EndOffset": 190, "Score": 0.9930788471031294, "Text": "four languages", "Type": "QUANTITY"}, {"BeginOffset": 217, "EndOffset": 219, "Score": 0.9955211912737842, "Text": "or", "Type": "OTHER"}, {"BeginOffset": 250, "EndOffset": 256, "Score": 0.998880686939097, "Text": "famous", "Type": "LOCATION"}, {"BeginOffset": 257, "EndOffset": 266, "Score": 0.5547477666262994, "Text": "Mackenzie", "Type": "LOCATION"}, {"BeginOffset": 320, "EndOffset": 331, "Score": 0.9793057676163388, "Text": "is around 5", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 551}
+{"Entities": [{"BeginOffset": 39, "EndOffset": 48, "Score": 0.9989987577161772, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 73, "EndOffset": 88, "Score": 0.9059882152085761, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 102, "EndOffset": 109, "Score": 0.5855534245710462, "Text": "morning", "Type": "DATE"}], "File": "reviews.csv", "Line": 552}
+{"Entities": [], "File": "reviews.csv", "Line": 553}
+{"Entities": [], "File": "reviews.csv", "Line": 554}
+{"Entities": [{"BeginOffset": 185, "EndOffset": 200, "Score": 0.9005290374702764, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 202, "EndOffset": 222, "Score": 0.9953418591533048, "Text": "Less than 10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 234, "EndOffset": 239, "Score": 0.9582489209772662, "Text": "Bed 5", "Type": "OTHER"}], "File": "reviews.csv", "Line": 555}
+{"Entities": [{"BeginOffset": 59, "EndOffset": 69, "Score": 0.9588399869567005, "Text": "3 children", "Type": "QUANTITY"}, {"BeginOffset": 71, "EndOffset": 80, "Score": 0.9813924376170928, "Text": "Two rooms", "Type": "QUANTITY"}, {"BeginOffset": 97, "EndOffset": 106, "Score": 0.8943801451345196, "Text": "third bed", "Type": "QUANTITY"}, {"BeginOffset": 226, "EndOffset": 228, "Score": 0.4819522986578111, "Text": "in", "Type": "DATE"}, {"BeginOffset": 320, "EndOffset": 334, "Score": 0.9821714169478689, "Text": "McKenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 556}
+{"Entities": [{"BeginOffset": 23, "EndOffset": 28, "Score": 0.8663817593010756, "Text": "first", "Type": "QUANTITY"}, {"BeginOffset": 200, "EndOffset": 207, "Score": 0.6253446250480406, "Text": "Cypriot", "Type": "PERSON"}, {"BeginOffset": 253, "EndOffset": 256, "Score": 0.9937285657774781, "Text": "\u20ac12", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 557}
+{"Entities": [], "File": "reviews.csv", "Line": 559}
+{"Entities": [{"BeginOffset": 40, "EndOffset": 54, "Score": 0.9970482952152453, "Text": "makenzie beach", "Type": "LOCATION"}, {"BeginOffset": 174, "EndOffset": 185, "Score": 0.9588672788848644, "Text": "first night", "Type": "QUANTITY"}, {"BeginOffset": 192, "EndOffset": 209, "Score": 0.9861203271445328, "Text": "one coffee sachet", "Type": "QUANTITY"}, {"BeginOffset": 216, "EndOffset": 222, "Score": 0.6352252336603917, "Text": "double", "Type": "QUANTITY"}, {"BeginOffset": 223, "EndOffset": 227, "Score": 0.5076178198049432, "Text": "room", "Type": "OTHER"}], "File": "reviews.csv", "Line": 447}
+{"Entities": [{"BeginOffset": 62, "EndOffset": 67, "Score": 0.9985731961075891, "Text": "04:30", "Type": "DATE"}, {"BeginOffset": 172, "EndOffset": 178, "Score": 0.7970972902737342, "Text": "double", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 448}
+{"Entities": [], "File": "reviews.csv", "Line": 449}
+{"Entities": [{"BeginOffset": 88, "EndOffset": 102, "Score": 0.998786051262645, "Text": "Makenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 312, "EndOffset": 321, "Score": 0.9609921624427622, "Text": "Twin beds", "Type": "OTHER"}], "File": "reviews.csv", "Line": 450}
+{"Entities": [{"BeginOffset": 66, "EndOffset": 76, "Score": 0.9967950028861388, "Text": "One nights", "Type": "QUANTITY"}, {"BeginOffset": 133, "EndOffset": 145, "Score": 0.9697433079104231, "Text": "next morning", "Type": "DATE"}, {"BeginOffset": 192, "EndOffset": 203, "Score": 0.9900542195078847, "Text": "Google maps", "Type": "TITLE"}, {"BeginOffset": 284, "EndOffset": 289, "Score": 0.812548925333605, "Text": "COVID", "Type": "OTHER"}, {"BeginOffset": 474, "EndOffset": 492, "Score": 0.9649015521398426, "Text": "early next morning", "Type": "DATE"}], "File": "reviews.csv", "Line": 451}
+{"Entities": [{"BeginOffset": 20, "EndOffset": 35, "Score": 0.9894866169521875, "Text": "mackenzie beach", "Type": "LOCATION"}, {"BeginOffset": 172, "EndOffset": 178, "Score": 0.5425656096647352, "Text": "double", "Type": "QUANTITY"}, {"BeginOffset": 179, "EndOffset": 182, "Score": 0.5627024271130793, "Text": "bed", "Type": "OTHER"}, {"BeginOffset": 191, "EndOffset": 194, "Score": 0.9968671312998285, "Text": "two", "Type": "QUANTITY"}, {"BeginOffset": 195, "EndOffset": 206, "Score": 0.80549478520807, "Text": "single beds", "Type": "QUANTITY"}, {"BeginOffset": 253, "EndOffset": 263, "Score": 0.9992719865059183, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 452}
+{"Entities": [], "File": "reviews.csv", "Line": 453}
+{"Entities": [{"BeginOffset": 48, "EndOffset": 57, "Score": 0.9909202619676309, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 575, "EndOffset": 595, "Score": 0.9923084712423251, "Text": "Pasithea Apartments\u2019", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 454}
+{"Entities": [{"BeginOffset": 226, "EndOffset": 229, "Score": 0.5821010442034824, "Text": "Mrs", "Type": "PERSON"}, {"BeginOffset": 230, "EndOffset": 234, "Score": 0.996844860508543, "Text": "Tony", "Type": "PERSON"}, {"BeginOffset": 528, "EndOffset": 539, "Score": 0.9984733558065266, "Text": "booking.com", "Type": "ORGANIZATION"}, {"BeginOffset": 675, "EndOffset": 680, "Score": 0.9973971817576485, "Text": "twice", "Type": "QUANTITY"}, {"BeginOffset": 730, "EndOffset": 741, "Score": 0.9870477608111204, "Text": "booking.com", "Type": "ORGANIZATION"}, {"BeginOffset": 848, "EndOffset": 851, "Score": 0.999719102628379, "Text": "Ali", "Type": "PERSON"}, {"BeginOffset": 857, "EndOffset": 868, "Score": 0.9392054133121442, "Text": "booking.com", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 455}
+{"Entities": [], "File": "reviews.csv", "Line": 456}
+{"Entities": [], "File": "reviews.csv", "Line": 457}
+{"Entities": [{"BeginOffset": 115, "EndOffset": 120, "Score": 0.9952707901486958, "Text": "3 a.m", "Type": "DATE"}], "File": "reviews.csv", "Line": 458}
+{"Entities": [{"BeginOffset": 174, "EndOffset": 180, "Score": 0.9778874627313087, "Text": "4 days", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 459}
+{"Entities": [{"BeginOffset": 103, "EndOffset": 108, "Score": 0.9848338594431398, "Text": "twice", "Type": "QUANTITY"}, {"BeginOffset": 270, "EndOffset": 282, "Score": 0.9995505446727383, "Text": "Thessaloniki", "Type": "LOCATION"}, {"BeginOffset": 295, "EndOffset": 303, "Score": 0.9903055578938956, "Text": "25 euros", "Type": "QUANTITY"}, {"BeginOffset": 472, "EndOffset": 477, "Score": 0.8933572944078835, "Text": "COVID", "Type": "EVENT"}], "File": "reviews.csv", "Line": 460}
+{"Entities": [], "File": "reviews.csv", "Line": 461}
+{"Entities": [], "File": "reviews.csv", "Line": 462}
+{"Entities": [{"BeginOffset": 44, "EndOffset": 52, "Score": 0.9948812667035625, "Text": "two beds", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 463}
+{"Entities": [], "File": "reviews.csv", "Line": 464}
+{"Entities": [], "File": "reviews.csv", "Line": 465}
+{"Entities": [], "File": "reviews.csv", "Line": 466}
+{"Entities": [], "File": "reviews.csv", "Line": 467}
+{"Entities": [], "File": "reviews.csv", "Line": 468}
+{"Entities": [], "File": "reviews.csv", "Line": 469}
+{"Entities": [], "File": "reviews.csv", "Line": 470}
+{"Entities": [], "File": "reviews.csv", "Line": 471}
+{"Entities": [], "File": "reviews.csv", "Line": 472}
+{"Entities": [], "File": "reviews.csv", "Line": 474}
+{"Entities": [], "File": "reviews.csv", "Line": 558}
+{"Entities": [{"BeginOffset": 150, "EndOffset": 160, "Score": 0.9989124462192986, "Text": "two nights", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 560}
+{"Entities": [], "File": "reviews.csv", "Line": 561}
+{"Entities": [{"BeginOffset": 46, "EndOffset": 61, "Score": 0.9561263277531635, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 237, "EndOffset": 253, "Score": 0.9391917960313878, "Text": "middle of August", "Type": "DATE"}, {"BeginOffset": 260, "EndOffset": 273, "Score": 0.9996874935973021, "Text": "David Shemesh", "Type": "PERSON"}], "File": "reviews.csv", "Line": 562}
+{"Entities": [], "File": "reviews.csv", "Line": 563}
+{"Entities": [{"BeginOffset": 89, "EndOffset": 99, "Score": 0.9973880314526126, "Text": "500 meters", "Type": "QUANTITY"}, {"BeginOffset": 187, "EndOffset": 190, "Score": 0.9788412528431665, "Text": "30'", "Type": "QUANTITY"}, {"BeginOffset": 200, "EndOffset": 202, "Score": 0.9590920055845994, "Text": "5'", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 564}
+{"Entities": [{"BeginOffset": 52, "EndOffset": 67, "Score": 0.995832888661288, "Text": "MacKenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 565}
+{"Entities": [{"BeginOffset": 73, "EndOffset": 79, "Score": 0.9469489642040692, "Text": "French", "Type": "OTHER"}], "File": "reviews.csv", "Line": 566}
+{"Entities": [], "File": "reviews.csv", "Line": 567}
+{"Entities": [], "File": "reviews.csv", "Line": 568}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 40, "Score": 0.999651138709993, "Text": "7 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 569}
+{"Entities": [], "File": "reviews.csv", "Line": 570}
+{"Entities": [], "File": "reviews.csv", "Line": 571}
+{"Entities": [], "File": "reviews.csv", "Line": 572}
+{"Entities": [{"BeginOffset": 27, "EndOffset": 31, "Score": 0.974695314392179, "Text": "both", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 573}
+{"Entities": [], "File": "reviews.csv", "Line": 574}
+{"Entities": [], "File": "reviews.csv", "Line": 575}
+{"Entities": [], "File": "reviews.csv", "Line": 576}
+{"Entities": [], "File": "reviews.csv", "Line": 577}
+{"Entities": [], "File": "reviews.csv", "Line": 578}
+{"Entities": [{"BeginOffset": 369, "EndOffset": 372, "Score": 0.9981770429627849, "Text": "two", "Type": "QUANTITY"}, {"BeginOffset": 377, "EndOffset": 385, "Score": 0.9784041502558273, "Text": "6 people", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 579}
+{"Entities": [{"BeginOffset": 29, "EndOffset": 45, "Score": 0.9455678087044145, "Text": "about 10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 580}
+{"Entities": [], "File": "reviews.csv", "Line": 581}
+{"Entities": [], "File": "reviews.csv", "Line": 582}
+{"Entities": [], "File": "reviews.csv", "Line": 583}
+{"Entities": [], "File": "reviews.csv", "Line": 584}
+{"Entities": [], "File": "reviews.csv", "Line": 585}
+{"Entities": [], "File": "reviews.csv", "Line": 586}
+{"Entities": [], "File": "reviews.csv", "Line": 587}
+{"Entities": [], "File": "reviews.csv", "Line": 588}
+{"Entities": [{"BeginOffset": 32, "EndOffset": 39, "Score": 0.9994371722626088, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 589}
+{"Entities": [{"BeginOffset": 22, "EndOffset": 25, "Score": 0.9992211577232788, "Text": "5am", "Type": "DATE"}, {"BeginOffset": 36, "EndOffset": 45, "Score": 0.9993719233595303, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 304, "EndOffset": 310, "Score": 0.9695288584467519, "Text": "French", "Type": "OTHER"}], "File": "reviews.csv", "Line": 590}
+{"Entities": [], "File": "reviews.csv", "Line": 591}
+{"Entities": [], "File": "reviews.csv", "Line": 592}
+{"Entities": [], "File": "reviews.csv", "Line": 593}
+{"Entities": [{"BeginOffset": 75, "EndOffset": 89, "Score": 0.9202082736326741, "Text": "Jasmine Garden", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 594}
+{"Entities": [], "File": "reviews.csv", "Line": 595}
+{"Entities": [], "File": "reviews.csv", "Line": 596}
+{"Entities": [], "File": "reviews.csv", "Line": 597}
+{"Entities": [{"BeginOffset": 86, "EndOffset": 96, "Score": 0.9981132880755242, "Text": "20 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 598}
+{"Entities": [], "File": "reviews.csv", "Line": 599}
+{"Entities": [{"BeginOffset": 117, "EndOffset": 127, "Score": 0.7812687069663614, "Text": "double bed", "Type": "OTHER"}, {"BeginOffset": 283, "EndOffset": 291, "Score": 0.988000870017377, "Text": "12 child", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 600}
+{"Entities": [], "File": "reviews.csv", "Line": 601}
+{"Entities": [], "File": "reviews.csv", "Line": 602}
+{"Entities": [{"BeginOffset": 32, "EndOffset": 47, "Score": 0.9992631318402431, "Text": "Larnaca Airport", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 603}
+{"Entities": [], "File": "reviews.csv", "Line": 604}
+{"Entities": [], "File": "reviews.csv", "Line": 605}
+{"Entities": [], "File": "reviews.csv", "Line": 606}
+{"Entities": [], "File": "reviews.csv", "Line": 607}
+{"Entities": [], "File": "reviews.csv", "Line": 608}
+{"Entities": [], "File": "reviews.csv", "Line": 609}
+{"Entities": [{"BeginOffset": 78, "EndOffset": 87, "Score": 0.9990576197364128, "Text": "Salt Lake", "Type": "LOCATION"}, {"BeginOffset": 92, "EndOffset": 107, "Score": 0.997705787805287, "Text": "Mackenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 179, "EndOffset": 188, "Score": 0.9934774351904272, "Text": "1.5 euros", "Type": "QUANTITY"}, {"BeginOffset": 277, "EndOffset": 284, "Score": 0.9935025522891243, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 344, "EndOffset": 365, "Score": 0.987836159400559, "Text": "Church of St. Lazarus", "Type": "LOCATION"}, {"BeginOffset": 366, "EndOffset": 379, "Score": 0.9378121620812682, "Text": "30-40 minutes", "Type": "QUANTITY"}, {"BeginOffset": 471, "EndOffset": 478, "Score": 0.8951233065351456, "Text": "8 euros", "Type": "QUANTITY"}, {"BeginOffset": 585, "EndOffset": 592, "Score": 0.9993787097687642, "Text": "January", "Type": "DATE"}], "File": "reviews.csv", "Line": 647}
+{"Entities": [{"BeginOffset": 264, "EndOffset": 278, "Score": 0.5359567396884457, "Text": "in the morning", "Type": "DATE"}], "File": "reviews.csv", "Line": 648}
+{"Entities": [{"BeginOffset": 27, "EndOffset": 36, "Score": 0.9983452028978499, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 56, "EndOffset": 64, "Score": 0.97149628454059, "Text": "next day", "Type": "DATE"}], "File": "reviews.csv", "Line": 649}
+{"Entities": [], "File": "reviews.csv", "Line": 650}
+{"Entities": [{"BeginOffset": 108, "EndOffset": 123, "Score": 0.9993972988471329, "Text": "Mackenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 128, "EndOffset": 137, "Score": 0.9988536104562435, "Text": "Salt Lake", "Type": "LOCATION"}, {"BeginOffset": 172, "EndOffset": 189, "Score": 0.8025755086968828, "Text": "after 12 at night", "Type": "DATE"}], "File": "reviews.csv", "Line": 651}
+{"Entities": [{"BeginOffset": 75, "EndOffset": 87, "Score": 0.9711510203433911, "Text": "7-10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 652}
+{"Entities": [{"BeginOffset": 23, "EndOffset": 28, "Score": 0.9476375561158475, "Text": "10/10", "Type": "QUANTITY"}, {"BeginOffset": 74, "EndOffset": 83, "Score": 0.9740268528203564, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 653}
+{"Entities": [{"BeginOffset": 74, "EndOffset": 83, "Score": 0.9895387699095417, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 105, "EndOffset": 111, "Score": 0.9996724010318564, "Text": "Cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 654}
+{"Entities": [{"BeginOffset": 278, "EndOffset": 295, "Score": 0.9531560700242153, "Text": "about 8 years old", "Type": "QUANTITY"}, {"BeginOffset": 655, "EndOffset": 670, "Score": 0.8580668674384426, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 655}
+{"Entities": [], "File": "reviews.csv", "Line": 656}
+{"Entities": [], "File": "reviews.csv", "Line": 657}
+{"Entities": [], "File": "reviews.csv", "Line": 658}
+{"Entities": [], "File": "reviews.csv", "Line": 659}
+{"Entities": [], "File": "reviews.csv", "Line": 660}
+{"Entities": [], "File": "reviews.csv", "Line": 661}
+{"Entities": [], "File": "reviews.csv", "Line": 662}
+{"Entities": [{"BeginOffset": 176, "EndOffset": 192, "Score": 0.9693422209349476, "Text": "2 in the morning", "Type": "DATE"}, {"BeginOffset": 273, "EndOffset": 280, "Score": 0.9995763905088108, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 663}
+{"Entities": [{"BeginOffset": 355, "EndOffset": 367, "Score": 0.9762479103143097, "Text": "about 2.5 km", "Type": "QUANTITY"}, {"BeginOffset": 697, "EndOffset": 702, "Score": 0.5786504282741437, "Text": "Greek", "Type": "OTHER"}], "File": "reviews.csv", "Line": 664}
+{"Entities": [{"BeginOffset": 37, "EndOffset": 43, "Score": 0.9951259456279838, "Text": "3 a.m.", "Type": "DATE"}], "File": "reviews.csv", "Line": 665}
+{"Entities": [], "File": "reviews.csv", "Line": 666}
+{"Entities": [], "File": "reviews.csv", "Line": 667}
+{"Entities": [{"BeginOffset": 88, "EndOffset": 98, "Score": 0.9988679967777, "Text": "10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 117, "EndOffset": 126, "Score": 0.9988978759311533, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 289, "EndOffset": 296, "Score": 0.9986800711294063, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 308, "EndOffset": 323, "Score": 0.9779578602653145, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 668}
+{"Entities": [{"BeginOffset": 114, "EndOffset": 120, "Score": 0.9526534447801254, "Text": "French", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 671}
+{"Entities": [], "File": "reviews.csv", "Line": 672}
+{"Entities": [], "File": "reviews.csv", "Line": 673}
+{"Entities": [], "File": "reviews.csv", "Line": 674}
+{"Entities": [], "File": "reviews.csv", "Line": 675}
+{"Entities": [], "File": "reviews.csv", "Line": 676}
+{"Entities": [{"BeginOffset": 145, "EndOffset": 155, "Score": 0.9980545621247131, "Text": "2 channels", "Type": "QUANTITY"}, {"BeginOffset": 179, "EndOffset": 186, "Score": 0.636387989926157, "Text": "netflix", "Type": "ORGANIZATION"}, {"BeginOffset": 215, "EndOffset": 219, "Score": 0.7372135751982841, "Text": "lake", "Type": "LOCATION"}, {"BeginOffset": 221, "EndOffset": 237, "Score": 0.977825788157531, "Text": "about 10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 244, "EndOffset": 255, "Score": 0.9948859330790523, "Text": "5-6 minutes", "Type": "QUANTITY"}, {"BeginOffset": 298, "EndOffset": 308, "Score": 0.9910110428418742, "Text": "about 4 km", "Type": "QUANTITY"}, {"BeginOffset": 328, "EndOffset": 339, "Score": 0.9969358319132859, "Text": "5-6 minutes", "Type": "QUANTITY"}, {"BeginOffset": 367, "EndOffset": 377, "Score": 0.9991999761155145, "Text": "50 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 677}
+{"Entities": [], "File": "reviews.csv", "Line": 678}
+{"Entities": [{"BeginOffset": 29, "EndOffset": 44, "Score": 0.9984373175130177, "Text": "Mackenzie beach", "Type": "LOCATION"}, {"BeginOffset": 79, "EndOffset": 88, "Score": 0.9994670680345805, "Text": "5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 679}
+{"Entities": [], "File": "reviews.csv", "Line": 680}
+{"Entities": [{"BeginOffset": 21, "EndOffset": 30, "Score": 0.9994111005758831, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 70, "EndOffset": 79, "Score": 0.9994580770934418, "Text": "6 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 681}
+{"Entities": [{"BeginOffset": 101, "EndOffset": 110, "Score": 0.9995333363334067, "Text": "5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 682}
+{"Entities": [], "File": "reviews.csv", "Line": 683}
+{"Entities": [], "File": "reviews.csv", "Line": 684}
+{"Entities": [], "File": "reviews.csv", "Line": 685}
+{"Entities": [{"BeginOffset": 82, "EndOffset": 84, "Score": 0.864816544719088, "Text": "8\u20ac", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 686}
+{"Entities": [], "File": "reviews.csv", "Line": 687}
+{"Entities": [{"BeginOffset": 22, "EndOffset": 41, "Score": 0.7326113752845109, "Text": "middle of September", "Type": "DATE"}, {"BeginOffset": 254, "EndOffset": 265, "Score": 0.9715904912621746, "Text": "5-7 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 688}
+{"Entities": [], "File": "reviews.csv", "Line": 689}
+{"Entities": [{"BeginOffset": 82, "EndOffset": 88, "Score": 0.5650423110367426, "Text": "double", "Type": "OTHER"}, {"BeginOffset": 110, "EndOffset": 111, "Score": 0.5093038365358638, "Text": "4", "Type": "QUANTITY"}, {"BeginOffset": 111, "EndOffset": 115, "Score": 0.6046381486272379, "Text": "-bed", "Type": "OTHER"}, {"BeginOffset": 126, "EndOffset": 135, "Score": 0.9745280066745591, "Text": "two rooms", "Type": "QUANTITY"}, {"BeginOffset": 180, "EndOffset": 194, "Score": 0.6059946082668902, "Text": "after midnight", "Type": "DATE"}, {"BeginOffset": 205, "EndOffset": 213, "Score": 0.7835756772975382, "Text": "a person", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 690}
+{"Entities": [{"BeginOffset": 130, "EndOffset": 154, "Score": 0.7152521415264037, "Text": "3 o'clock in the morning", "Type": "DATE"}], "File": "reviews.csv", "Line": 691}
+{"Entities": [{"BeginOffset": 43, "EndOffset": 58, "Score": 0.984626769884317, "Text": "Mackenzie beach", "Type": "LOCATION"}, {"BeginOffset": 118, "EndOffset": 130, "Score": 0.9991617755054778, "Text": "five minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 692}
+{"Entities": [], "File": "reviews.csv", "Line": 693}
+{"Entities": [{"BeginOffset": 152, "EndOffset": 159, "Score": 0.9988444107426164, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 694}
+{"Entities": [{"BeginOffset": 52, "EndOffset": 59, "Score": 0.9985981938389962, "Text": "3 stops", "Type": "QUANTITY"}, {"BeginOffset": 67, "EndOffset": 74, "Score": 0.39493270505893513, "Text": "425 bus", "Type": "LOCATION"}, {"BeginOffset": 76, "EndOffset": 85, "Score": 0.9953603148874354, "Text": "2nd floor", "Type": "QUANTITY"}, {"BeginOffset": 233, "EndOffset": 241, "Score": 0.9978677298870681, "Text": "Tomorrow", "Type": "DATE"}, {"BeginOffset": 260, "EndOffset": 267, "Score": 0.9934345582746135, "Text": "8 euros", "Type": "QUANTITY"}, {"BeginOffset": 298, "EndOffset": 304, "Score": 0.9476856540043023, "Text": "3 beds", "Type": "QUANTITY"}, {"BeginOffset": 308, "EndOffset": 317, "Score": 0.9973382808231275, "Text": "18 meters", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 695}
+{"Entities": [{"BeginOffset": 146, "EndOffset": 153, "Score": 0.99880690855059, "Text": "2:30 am", "Type": "DATE"}, {"BeginOffset": 298, "EndOffset": 307, "Score": 0.9831364253737895, "Text": "1:30 p.m.", "Type": "DATE"}], "File": "reviews.csv", "Line": 696}
+{"Entities": [], "File": "reviews.csv", "Line": 697}
+{"Entities": [], "File": "reviews.csv", "Line": 698}
+{"Entities": [{"BeginOffset": 23, "EndOffset": 33, "Score": 0.999076326739171, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 699}
+{"Entities": [{"BeginOffset": 78, "EndOffset": 87, "Score": 0.9708044820224669, "Text": "5 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 700}
+{"Entities": [{"BeginOffset": 108, "EndOffset": 111, "Score": 0.9751653110958491, "Text": "one", "Type": "QUANTITY"}, {"BeginOffset": 112, "EndOffset": 119, "Score": 0.6284914621198701, "Text": "nescafe", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 701}
+{"Entities": [], "File": "reviews.csv", "Line": 702}
+{"Entities": [{"BeginOffset": 69, "EndOffset": 71, "Score": 0.9952880302805005, "Text": "16", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 703}
+{"Entities": [{"BeginOffset": 270, "EndOffset": 279, "Score": 0.9972059010008114, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 610}
+{"Entities": [{"BeginOffset": 19, "EndOffset": 34, "Score": 0.7890473419682672, "Text": "Larnaca airport", "Type": "LOCATION"}, {"BeginOffset": 39, "EndOffset": 43, "Score": 0.998783401352641, "Text": "5min", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 611}
+{"Entities": [], "File": "reviews.csv", "Line": 612}
+{"Entities": [{"BeginOffset": 66, "EndOffset": 75, "Score": 0.9979624136961118, "Text": "6 minutes", "Type": "QUANTITY"}, {"BeginOffset": 158, "EndOffset": 164, "Score": 0.946596549558805, "Text": "French", "Type": "OTHER"}], "File": "reviews.csv", "Line": 613}
+{"Entities": [{"BeginOffset": 144, "EndOffset": 151, "Score": 0.9967272993130781, "Text": "one day", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 614}
+{"Entities": [{"BeginOffset": 176, "EndOffset": 180, "Score": 0.9988456000632808, "Text": "5min", "Type": "QUANTITY"}, {"BeginOffset": 251, "EndOffset": 266, "Score": 0.9988753296542949, "Text": "2 small bottles", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 615}
+{"Entities": [{"BeginOffset": 79, "EndOffset": 88, "Score": 0.9929160352055539, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 358, "EndOffset": 368, "Score": 0.9989221437566561, "Text": "40 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 616}
+{"Entities": [], "File": "reviews.csv", "Line": 617}
+{"Entities": [], "File": "reviews.csv", "Line": 618}
+{"Entities": [{"BeginOffset": 68, "EndOffset": 71, "Score": 0.9985036947452275, "Text": "3am", "Type": "DATE"}], "File": "reviews.csv", "Line": 619}
+{"Entities": [], "File": "reviews.csv", "Line": 620}
+{"Entities": [{"BeginOffset": 88, "EndOffset": 100, "Score": 0.9345349536617562, "Text": "7-10 minutes", "Type": "QUANTITY"}, {"BeginOffset": 204, "EndOffset": 211, "Score": 0.9959887430500293, "Text": "one bed", "Type": "QUANTITY"}, {"BeginOffset": 228, "EndOffset": 243, "Score": 0.996125883560874, "Text": "2 separate beds", "Type": "QUANTITY"}, {"BeginOffset": 428, "EndOffset": 435, "Score": 0.9972185379467362, "Text": "one bed", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 621}
+{"Entities": [], "File": "reviews.csv", "Line": 622}
+{"Entities": [{"BeginOffset": 141, "EndOffset": 150, "Score": 0.998652698568209, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 623}
+{"Entities": [], "File": "reviews.csv", "Line": 624}
+{"Entities": [], "File": "reviews.csv", "Line": 625}
+{"Entities": [], "File": "reviews.csv", "Line": 626}
+{"Entities": [{"BeginOffset": 50, "EndOffset": 66, "Score": 0.9864870332777118, "Text": "3 in the morning", "Type": "DATE"}, {"BeginOffset": 72, "EndOffset": 75, "Score": 0.979318246795073, "Text": "Htl", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 627}
+{"Entities": [], "File": "reviews.csv", "Line": 628}
+{"Entities": [], "File": "reviews.csv", "Line": 629}
+{"Entities": [{"BeginOffset": 69, "EndOffset": 78, "Score": 0.999046880017406, "Text": "30 minute", "Type": "QUANTITY"}, {"BeginOffset": 89, "EndOffset": 103, "Score": 0.8440758560788462, "Text": "Larnaca center", "Type": "LOCATION"}, {"BeginOffset": 108, "EndOffset": 117, "Score": 0.9994712358177735, "Text": "10 minute", "Type": "QUANTITY"}, {"BeginOffset": 138, "EndOffset": 153, "Score": 0.998583256336701, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 630}
+{"Entities": [], "File": "reviews.csv", "Line": 631}
+{"Entities": [], "File": "reviews.csv", "Line": 632}
+{"Entities": [{"BeginOffset": 52, "EndOffset": 58, "Score": 0.9354739302900564, "Text": "French", "Type": "OTHER"}, {"BeginOffset": 92, "EndOffset": 106, "Score": 0.9866642573789818, "Text": "24 hours a day", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 633}
+{"Entities": [], "File": "reviews.csv", "Line": 634}
+{"Entities": [], "File": "reviews.csv", "Line": 635}
+{"Entities": [], "File": "reviews.csv", "Line": 636}
+{"Entities": [{"BeginOffset": 91, "EndOffset": 100, "Score": 0.9981603321089174, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 637}
+{"Entities": [], "File": "reviews.csv", "Line": 638}
+{"Entities": [], "File": "reviews.csv", "Line": 639}
+{"Entities": [], "File": "reviews.csv", "Line": 640}
+{"Entities": [], "File": "reviews.csv", "Line": 641}
+{"Entities": [], "File": "reviews.csv", "Line": 642}
+{"Entities": [], "File": "reviews.csv", "Line": 643}
+{"Entities": [], "File": "reviews.csv", "Line": 644}
+{"Entities": [], "File": "reviews.csv", "Line": 645}
+{"Entities": [], "File": "reviews.csv", "Line": 646}
+{"Entities": [], "File": "reviews.csv", "Line": 669}
+{"Entities": [], "File": "reviews.csv", "Line": 670}
+{"Entities": [{"BeginOffset": 82, "EndOffset": 92, "Score": 0.9988277603438684, "Text": "2 managers", "Type": "QUANTITY"}, {"BeginOffset": 185, "EndOffset": 191, "Score": 0.9988027856440603, "Text": "Cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 704}
+{"Entities": [{"BeginOffset": 82, "EndOffset": 92, "Score": 0.9987173536849413, "Text": "2 managers", "Type": "QUANTITY"}, {"BeginOffset": 185, "EndOffset": 191, "Score": 0.9988255006412927, "Text": "Cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 705}
+{"Entities": [{"BeginOffset": 60, "EndOffset": 68, "Score": 0.9855725177019954, "Text": "3+ stars", "Type": "QUANTITY"}, {"BeginOffset": 79, "EndOffset": 94, "Score": 0.997632815637988, "Text": "Mackenzie Beach", "Type": "LOCATION"}, {"BeginOffset": 98, "EndOffset": 111, "Score": 0.9909213405683343, "Text": "10-15 minutes", "Type": "QUANTITY"}, {"BeginOffset": 204, "EndOffset": 205, "Score": 0.9993813291765382, "Text": "7", "Type": "QUANTITY"}, {"BeginOffset": 208, "EndOffset": 218, "Score": 0.9643888033626553, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 706}
+{"Entities": [], "File": "reviews.csv", "Line": 707}
+{"Entities": [{"BeginOffset": 117, "EndOffset": 133, "Score": 0.891451624970468, "Text": "number of people", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 708}
+{"Entities": [], "File": "reviews.csv", "Line": 709}
+{"Entities": [], "File": "reviews.csv", "Line": 710}
+{"Entities": [], "File": "reviews.csv", "Line": 711}
+{"Entities": [], "File": "reviews.csv", "Line": 712}
+{"Entities": [], "File": "reviews.csv", "Line": 713}
+{"Entities": [], "File": "reviews.csv", "Line": 714}
+{"Entities": [], "File": "reviews.csv", "Line": 715}
+{"Entities": [], "File": "reviews.csv", "Line": 716}
+{"Entities": [], "File": "reviews.csv", "Line": 717}
+{"Entities": [], "File": "reviews.csv", "Line": 718}
+{"Entities": [], "File": "reviews.csv", "Line": 719}
+{"Entities": [{"BeginOffset": 50, "EndOffset": 65, "Score": 0.9953426675419165, "Text": "Mackenzie beach", "Type": "LOCATION"}, {"BeginOffset": 70, "EndOffset": 79, "Score": 0.6856063799516018, "Text": "salt lake", "Type": "LOCATION"}, {"BeginOffset": 81, "EndOffset": 91, "Score": 0.9990879918391261, "Text": "10 minutes", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 720}
+{"Entities": [], "File": "reviews.csv", "Line": 721}
+{"Entities": [{"BeginOffset": 79, "EndOffset": 98, "Score": 0.715453646593982, "Text": "several restaurants", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 722}
+{"Entities": [], "File": "reviews.csv", "Line": 723}
+{"Entities": [{"BeginOffset": 147, "EndOffset": 161, "Score": 0.9801055550763996, "Text": "Makenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 724}
+{"Entities": [], "File": "reviews.csv", "Line": 725}
+{"Entities": [], "File": "reviews.csv", "Line": 726}
+{"Entities": [], "File": "reviews.csv", "Line": 727}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 40, "Score": 0.8251071712600235, "Text": "Mackenzie", "Type": "LOCATION"}, {"BeginOffset": 44, "EndOffset": 53, "Score": 0.9992041650607247, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 251, "EndOffset": 260, "Score": 0.9688747860054321, "Text": "Mackenzie", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 728}
+{"Entities": [{"BeginOffset": 45, "EndOffset": 52, "Score": 0.9989206532708523, "Text": "Larnaca", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 729}
+{"Entities": [], "File": "reviews.csv", "Line": 730}
+{"Entities": [], "File": "reviews.csv", "Line": 731}
+{"Entities": [], "File": "reviews.csv", "Line": 732}
+{"Entities": [], "File": "reviews.csv", "Line": 733}
+{"Entities": [{"BeginOffset": 98, "EndOffset": 107, "Score": 0.9991997928208455, "Text": "Mackenzie", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 734}
+{"Entities": [], "File": "reviews.csv", "Line": 735}
+{"Entities": [], "File": "reviews.csv", "Line": 736}
+{"Entities": [{"BeginOffset": 41, "EndOffset": 57, "Score": 0.9897879467650496, "Text": "ALYKI BEACH CLUB", "Type": "ORGANIZATION"}], "File": "reviews.csv", "Line": 737}
+{"Entities": [{"BeginOffset": 11, "EndOffset": 26, "Score": 0.9922793918414643, "Text": "Mackenzie Beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 738}
+{"Entities": [], "File": "reviews.csv", "Line": 739}
+{"Entities": [{"BeginOffset": 22, "EndOffset": 30, "Score": 0.8643887098198926, "Text": "pandemic", "Type": "EVENT"}, {"BeginOffset": 65, "EndOffset": 73, "Score": 0.748251086627969, "Text": "next day", "Type": "DATE"}], "File": "reviews.csv", "Line": 740}
+{"Entities": [{"BeginOffset": 214, "EndOffset": 223, "Score": 0.7576777904852442, "Text": "one thing", "Type": "QUANTITY"}, {"BeginOffset": 439, "EndOffset": 445, "Score": 0.6821163274745844, "Text": "French", "Type": "LOCATION"}, {"BeginOffset": 481, "EndOffset": 487, "Score": 0.9997293489777506, "Text": "Cyprus", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 741}
+{"Entities": [], "File": "reviews.csv", "Line": 742}
+{"Entities": [], "File": "reviews.csv", "Line": 743}
+{"Entities": [], "File": "reviews.csv", "Line": 744}
+{"Entities": [], "File": "reviews.csv", "Line": 745}
+{"Entities": [], "File": "reviews.csv", "Line": 746}
+{"Entities": [], "File": "reviews.csv", "Line": 747}
+{"Entities": [{"BeginOffset": 73, "EndOffset": 80, "Score": 0.8806229360621645, "Text": "Cypriot", "Type": "PERSON"}, {"BeginOffset": 347, "EndOffset": 354, "Score": 0.9817620596821394, "Text": "Cypriot", "Type": "PERSON"}], "File": "reviews.csv", "Line": 748}
+{"Entities": [], "File": "reviews.csv", "Line": 749}
+{"Entities": [{"BeginOffset": 81, "EndOffset": 90, "Score": 0.9716177040755122, "Text": "salt lake", "Type": "LOCATION"}, {"BeginOffset": 168, "EndOffset": 182, "Score": 0.8562876148232781, "Text": "after midnight", "Type": "DATE"}], "File": "reviews.csv", "Line": 750}
+{"Entities": [], "File": "reviews.csv", "Line": 751}
+{"Entities": [], "File": "reviews.csv", "Line": 752}
+{"Entities": [], "File": "reviews.csv", "Line": 753}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 40, "Score": 0.7720616180606226, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 41, "EndOffset": 57, "Score": 0.6189985337855402, "Text": "before departure", "Type": "DATE"}], "File": "reviews.csv", "Line": 754}
+{"Entities": [], "File": "reviews.csv", "Line": 755}
+{"Entities": [{"BeginOffset": 212, "EndOffset": 225, "Score": 0.6578546119580522, "Text": "early morning", "Type": "DATE"}], "File": "reviews.csv", "Line": 756}
+{"Entities": [], "File": "reviews.csv", "Line": 757}
+{"Entities": [], "File": "reviews.csv", "Line": 758}
+{"Entities": [{"BeginOffset": 57, "EndOffset": 67, "Score": 0.9013364717964556, "Text": "20 minutes", "Type": "QUANTITY"}, {"BeginOffset": 87, "EndOffset": 91, "Score": 0.5502085199926523, "Text": "half", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 759}
+{"Entities": [{"BeginOffset": 61, "EndOffset": 68, "Score": 0.8600817737703317, "Text": "English", "Type": "OTHER"}], "File": "reviews.csv", "Line": 760}
+{"Entities": [], "File": "reviews.csv", "Line": 761}
+{"Entities": [], "File": "reviews.csv", "Line": 762}
+{"Entities": [{"BeginOffset": 10, "EndOffset": 15, "Score": 0.5977715432246696, "Text": "Large", "Type": "OTHER"}, {"BeginOffset": 72, "EndOffset": 80, "Score": 0.9321641056460681, "Text": "5 people", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 763}
+{"Entities": [], "File": "reviews.csv", "Line": 764}
+{"Entities": [{"BeginOffset": 31, "EndOffset": 37, "Score": 0.8306527076852162, "Text": "French", "Type": "LOCATION"}, {"BeginOffset": 148, "EndOffset": 157, "Score": 0.9975356674970556, "Text": "1st floor", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 765}
+{"Entities": [{"BeginOffset": 86, "EndOffset": 99, "Score": 0.9862409557502279, "Text": "one gentleman", "Type": "QUANTITY"}, {"BeginOffset": 306, "EndOffset": 330, "Score": 0.9201467123148528, "Text": "3 o'clock in the morning", "Type": "DATE"}, {"BeginOffset": 399, "EndOffset": 415, "Score": 0.8611668317118555, "Text": "7 o'clock in the", "Type": "DATE"}, {"BeginOffset": 635, "EndOffset": 651, "Score": 0.9630623855131305, "Text": "2 phone chargers", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 766}
+{"Entities": [{"BeginOffset": 314, "EndOffset": 325, "Score": 0.9924223131707486, "Text": "first floor", "Type": "QUANTITY"}, {"BeginOffset": 671, "EndOffset": 681, "Score": 0.9963329187705188, "Text": "two people", "Type": "QUANTITY"}, {"BeginOffset": 698, "EndOffset": 714, "Score": 0.9984229255194652, "Text": "2 coffee sachets", "Type": "QUANTITY"}, {"BeginOffset": 719, "EndOffset": 732, "Score": 0.9984705997781583, "Text": "2 tea sachets", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 767}
+{"Entities": [], "File": "reviews.csv", "Line": 768}
+{"Entities": [{"BeginOffset": 88, "EndOffset": 95, "Score": 0.9976253805153401, "Text": "3 stars", "Type": "QUANTITY"}, {"BeginOffset": 97, "EndOffset": 106, "Score": 0.9971232730387596, "Text": "400 euros", "Type": "QUANTITY"}, {"BeginOffset": 111, "EndOffset": 119, "Score": 0.9971314128636667, "Text": "3 nights", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 769}
+{"Entities": [{"BeginOffset": 154, "EndOffset": 160, "Score": 0.9984159615392492, "Text": "2 eggs", "Type": "QUANTITY"}, {"BeginOffset": 162, "EndOffset": 179, "Score": 0.8926763182373759, "Text": "2 slices of toast", "Type": "QUANTITY"}, {"BeginOffset": 181, "EndOffset": 201, "Score": 0.99045400450135, "Text": "1/4 grilled mushroom", "Type": "QUANTITY"}, {"BeginOffset": 203, "EndOffset": 229, "Score": 0.9306166682648359, "Text": "1/2 grilled tomato, pepper", "Type": "QUANTITY"}, {"BeginOffset": 231, "EndOffset": 247, "Score": 0.999244535670105, "Text": "2 small sausages", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 770}
+{"Entities": [{"BeginOffset": 57, "EndOffset": 63, "Score": 0.9997678342233, "Text": "Cyprus", "Type": "LOCATION"}, {"BeginOffset": 85, "EndOffset": 94, "Score": 0.9977836175372923, "Text": "one night", "Type": "QUANTITY"}, {"BeginOffset": 167, "EndOffset": 173, "Score": 0.48170835671202367, "Text": "couple", "Type": "QUANTITY"}, {"BeginOffset": 242, "EndOffset": 248, "Score": 0.9373321922095665, "Text": "a week", "Type": "QUANTITY"}, {"BeginOffset": 358, "EndOffset": 364, "Score": 0.9568207205403985, "Text": "Nissan", "Type": "ORGANIZATION"}, {"BeginOffset": 365, "EndOffset": 370, "Score": 0.9053041476378859, "Text": "Micra", "Type": "COMMERCIAL_ITEM"}, {"BeginOffset": 538, "EndOffset": 555, "Score": 0.8380876512017976, "Text": "a couple of hours", "Type": "QUANTITY"}, {"BeginOffset": 611, "EndOffset": 618, "Score": 0.9944748291320447, "Text": "Larnaca", "Type": "LOCATION"}, {"BeginOffset": 623, "EndOffset": 639, "Score": 0.9804127481597001, "Text": "about 20 minutes", "Type": "QUANTITY"}, {"BeginOffset": 644, "EndOffset": 648, "Score": 0.6524329167612833, "Text": "Lidl", "Type": "LOCATION"}, {"BeginOffset": 653, "EndOffset": 671, "Score": 0.9976233115497986, "Text": "an hour and a half", "Type": "QUANTITY"}, {"BeginOffset": 697, "EndOffset": 706, "Score": 0.9979512486640841, "Text": "one night", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 771}
+{"Entities": [], "File": "reviews.csv", "Line": 772}
+{"Entities": [{"BeginOffset": 177, "EndOffset": 190, "Score": 0.721364580579457, "Text": "early morning", "Type": "DATE"}, {"BeginOffset": 298, "EndOffset": 313, "Score": 0.9894878526111386, "Text": "Mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 773}
+{"Entities": [{"BeginOffset": 84, "EndOffset": 94, "Score": 0.9753114930655717, "Text": "one window", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 774}
+{"Entities": [], "File": "reviews.csv", "Line": 775}
+{"Entities": [], "File": "reviews.csv", "Line": 776}
+{"Entities": [{"BeginOffset": 43, "EndOffset": 46, "Score": 0.9971180328628452, "Text": "4am", "Type": "DATE"}], "File": "reviews.csv", "Line": 777}
+{"Entities": [], "File": "reviews.csv", "Line": 778}
+{"Entities": [{"BeginOffset": 140, "EndOffset": 154, "Score": 0.4782060675984656, "Text": "couple of days", "Type": "QUANTITY"}, {"BeginOffset": 197, "EndOffset": 205, "Score": 0.9875046035206254, "Text": "one-room", "Type": "QUANTITY"}, {"BeginOffset": 211, "EndOffset": 219, "Score": 0.9730665278348417, "Text": "two-room", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 779}
+{"Entities": [{"BeginOffset": 29, "EndOffset": 48, "Score": 0.8471484156405527, "Text": "1:30 in the morning", "Type": "DATE"}], "File": "reviews.csv", "Line": 780}
+{"Entities": [{"BeginOffset": 77, "EndOffset": 80, "Score": 0.9990022043231551, "Text": "4am", "Type": "DATE"}, {"BeginOffset": 108, "EndOffset": 114, "Score": 0.9346454110942789, "Text": "French", "Type": "LOCATION"}, {"BeginOffset": 364, "EndOffset": 368, "Score": 0.9981978333667293, "Text": "100%", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 781}
+{"Entities": [{"BeginOffset": 65, "EndOffset": 80, "Score": 0.9885963709336988, "Text": "mackenzie beach", "Type": "LOCATION"}], "File": "reviews.csv", "Line": 782}
+{"Entities": [], "File": "reviews.csv", "Line": 783}
+{"Entities": [], "File": "reviews.csv", "Line": 784}
+{"Entities": [{"BeginOffset": 40, "EndOffset": 49, "Score": 0.9990310913013776, "Text": "5 minutes", "Type": "QUANTITY"}, {"BeginOffset": 199, "EndOffset": 209, "Score": 0.9958869229163523, "Text": "half a day", "Type": "QUANTITY"}], "File": "reviews.csv", "Line": 785}
+{"Entities": [], "File": "reviews.csv", "Line": 786}
+{"Entities": [], "File": "reviews.csv", "Line": 787}
+{"Entities": [], "File": "reviews.csv", "Line": 788}
+{"Entities": [], "File": "reviews.csv", "Line": 789}
+{"Entities": [], "File": "reviews.csv", "Line": 790}
+{"Entities": [], "File": "reviews.csv", "Line": 791}
+{"Entities": [], "File": "reviews.csv", "Line": 792}
+{"Entities": [], "File": "reviews.csv", "Line": 793}
+{"Entities": [], "File": "reviews.csv", "Line": 794}
+{"Entities": [], "File": "reviews.csv", "Line": 795}
+{"Entities": [], "File": "reviews.csv", "Line": 796}
+{"Entities": [], "File": "reviews.csv", "Line": 797}
+{"Entities": [], "File": "reviews.csv", "Line": 798}
+{"Entities": [], "File": "reviews.csv", "Line": 799}
+{"Entities": [], "File": "reviews.csv", "Line": 800}
+{"Entities": [], "File": "reviews.csv", "Line": 801}
+{"Entities": [], "File": "reviews.csv", "Line": 802}
+{"Entities": [], "File": "reviews.csv", "Line": 803}
+{"Entities": [], "File": "reviews.csv", "Line": 804}
+{"Entities": [], "File": "reviews.csv", "Line": 805}
+{"Entities": [], "File": "reviews.csv", "Line": 806}
+{"Entities": [], "File": "reviews.csv", "Line": 807}
+{"Entities": [], "File": "reviews.csv", "Line": 808}
+{"Entities": [], "File": "reviews.csv", "Line": 809}
+{"Entities": [], "File": "reviews.csv", "Line": 810}
+{"Entities": [], "File": "reviews.csv", "Line": 811}
+{"Entities": [], "File": "reviews.csv", "Line": 812}
+{"Entities": [], "File": "reviews.csv", "Line": 813}
+{"Entities": [], "File": "reviews.csv", "Line": 814}
+{"Entities": [], "File": "reviews.csv", "Line": 815}
+{"Entities": [], "File": "reviews.csv", "Line": 816}
+{"Entities": [], "File": "reviews.csv", "Line": 817}
+{"Entities": [], "File": "reviews.csv", "Line": 818}
+{"Entities": [], "File": "reviews.csv", "Line": 819}
+{"Entities": [], "File": "reviews.csv", "Line": 820}
+{"Entities": [], "File": "reviews.csv", "Line": 821}
+{"Entities": [], "File": "reviews.csv", "Line": 822}
+{"Entities": [], "File": "reviews.csv", "Line": 823}
+{"Entities": [], "File": "reviews.csv", "Line": 824}
+{"Entities": [], "File": "reviews.csv", "Line": 825}
+{"Entities": [], "File": "reviews.csv", "Line": 826}
+{"Entities": [], "File": "reviews.csv", "Line": 827}
+{"Entities": [], "File": "reviews.csv", "Line": 828}
+{"Entities": [], "File": "reviews.csv", "Line": 829}
+{"Entities": [], "File": "reviews.csv", "Line": 830}
+{"Entities": [], "File": "reviews.csv", "Line": 831}
+{"Entities": [], "File": "reviews.csv", "Line": 832}
+{"Entities": [], "File": "reviews.csv", "Line": 833}
+{"Entities": [], "File": "reviews.csv", "Line": 834}
+{"Entities": [], "File": "reviews.csv", "Line": 835}
+{"Entities": [], "File": "reviews.csv", "Line": 836}
+{"Entities": [], "File": "reviews.csv", "Line": 837}
+{"Entities": [], "File": "reviews.csv", "Line": 838}
+{"Entities": [], "File": "reviews.csv", "Line": 839}
+{"Entities": [], "File": "reviews.csv", "Line": 840}
+{"Entities": [], "File": "reviews.csv", "Line": 841}
+{"Entities": [], "File": "reviews.csv", "Line": 842}
+{"Entities": [], "File": "reviews.csv", "Line": 843}
+{"Entities": [], "File": "reviews.csv", "Line": 844}
+{"Entities": [], "File": "reviews.csv", "Line": 845}
+{"Entities": [], "File": "reviews.csv", "Line": 846}
+{"Entities": [], "File": "reviews.csv", "Line": 847}
+{"Entities": [], "File": "reviews.csv", "Line": 848}
+{"Entities": [], "File": "reviews.csv", "Line": 849}
+{"Entities": [], "File": "reviews.csv", "Line": 850}
+{"Entities": [], "File": "reviews.csv", "Line": 851}
+{"Entities": [], "File": "reviews.csv", "Line": 852}
+{"Entities": [], "File": "reviews.csv", "Line": 853}
+{"Entities": [], "File": "reviews.csv", "Line": 854}
+{"Entities": [], "File": "reviews.csv", "Line": 855}
+{"Entities": [], "File": "reviews.csv", "Line": 856}
+{"Entities": [], "File": "reviews.csv", "Line": 857}
+{"Entities": [], "File": "reviews.csv", "Line": 858}
+{"Entities": [], "File": "reviews.csv", "Line": 859}
+{"Entities": [], "File": "reviews.csv", "Line": 860}
+{"Entities": [], "File": "reviews.csv", "Line": 861}
+{"Entities": [], "File": "reviews.csv", "Line": 862}
+{"Entities": [], "File": "reviews.csv", "Line": 863}
+{"Entities": [], "File": "reviews.csv", "Line": 864}
+{"Entities": [], "File": "reviews.csv", "Line": 865}
+{"Entities": [], "File": "reviews.csv", "Line": 866}
+{"Entities": [], "File": "reviews.csv", "Line": 867}
+{"Entities": [], "File": "reviews.csv", "Line": 868}
+{"Entities": [], "File": "reviews.csv", "Line": 869}
+{"Entities": [], "File": "reviews.csv", "Line": 870}
+{"Entities": [], "File": "reviews.csv", "Line": 871}
+{"Entities": [], "File": "reviews.csv", "Line": 872}
+{"Entities": [], "File": "reviews.csv", "Line": 873}
+{"Entities": [], "File": "reviews.csv", "Line": 874}
+{"Entities": [], "File": "reviews.csv", "Line": 875}
+{"Entities": [], "File": "reviews.csv", "Line": 876}
+{"Entities": [], "File": "reviews.csv", "Line": 877}
+{"Entities": [], "File": "reviews.csv", "Line": 878}
+{"Entities": [], "File": "reviews.csv", "Line": 879}
+{"Entities": [], "File": "reviews.csv", "Line": 880}
+{"Entities": [], "File": "reviews.csv", "Line": 881}
+{"Entities": [], "File": "reviews.csv", "Line": 882}
+{"Entities": [], "File": "reviews.csv", "Line": 883}
+{"Entities": [], "File": "reviews.csv", "Line": 884}
+{"Entities": [], "File": "reviews.csv", "Line": 885}
+{"Entities": [], "File": "reviews.csv", "Line": 886}
+{"Entities": [], "File": "reviews.csv", "Line": 887}
+{"Entities": [], "File": "reviews.csv", "Line": 888}
+{"Entities": [], "File": "reviews.csv", "Line": 889}
+{"Entities": [], "File": "reviews.csv", "Line": 890}
+{"Entities": [], "File": "reviews.csv", "Line": 891}
+{"Entities": [], "File": "reviews.csv", "Line": 892}
+{"Entities": [], "File": "reviews.csv", "Line": 893}
+{"Entities": [], "File": "reviews.csv", "Line": 894}
+{"Entities": [], "File": "reviews.csv", "Line": 895}
+{"Entities": [], "File": "reviews.csv", "Line": 896}
+{"Entities": [], "File": "reviews.csv", "Line": 897}
+{"Entities": [], "File": "reviews.csv", "Line": 898}
+{"Entities": [], "File": "reviews.csv", "Line": 899}
+{"Entities": [], "File": "reviews.csv", "Line": 900}
+{"Entities": [], "File": "reviews.csv", "Line": 901}
+{"Entities": [], "File": "reviews.csv", "Line": 902}
+{"Entities": [], "File": "reviews.csv", "Line": 903}
+{"Entities": [], "File": "reviews.csv", "Line": 904}
+{"Entities": [], "File": "reviews.csv", "Line": 905}
+{"Entities": [], "File": "reviews.csv", "Line": 906}
+{"Entities": [], "File": "reviews.csv", "Line": 907}
+{"Entities": [], "File": "reviews.csv", "Line": 908}
+{"Entities": [], "File": "reviews.csv", "Line": 909}
+{"Entities": [], "File": "reviews.csv", "Line": 910}
+{"Entities": [], "File": "reviews.csv", "Line": 911}
+{"Entities": [], "File": "reviews.csv", "Line": 912}
+{"Entities": [], "File": "reviews.csv", "Line": 913}
+{"Entities": [], "File": "reviews.csv", "Line": 914}
+{"Entities": [], "File": "reviews.csv", "Line": 915}
+{"Entities": [], "File": "reviews.csv", "Line": 916}
+{"Entities": [], "File": "reviews.csv", "Line": 917}
+{"Entities": [], "File": "reviews.csv", "Line": 918}
+{"Entities": [], "File": "reviews.csv", "Line": 919}
+{"Entities": [], "File": "reviews.csv", "Line": 920}
+{"Entities": [], "File": "reviews.csv", "Line": 921}
+{"Entities": [], "File": "reviews.csv", "Line": 922}
+{"Entities": [], "File": "reviews.csv", "Line": 923}
+{"Entities": [], "File": "reviews.csv", "Line": 924}
+{"Entities": [], "File": "reviews.csv", "Line": 925}
+{"Entities": [], "File": "reviews.csv", "Line": 926}
+{"Entities": [], "File": "reviews.csv", "Line": 927}
+{"Entities": [], "File": "reviews.csv", "Line": 928}
+{"Entities": [], "File": "reviews.csv", "Line": 929}
+{"Entities": [], "File": "reviews.csv", "Line": 930}
+{"Entities": [], "File": "reviews.csv", "Line": 931}
+{"Entities": [], "File": "reviews.csv", "Line": 932}
+{"Entities": [], "File": "reviews.csv", "Line": 933}
+{"Entities": [], "File": "reviews.csv", "Line": 934}
+{"Entities": [], "File": "reviews.csv", "Line": 935}
+{"Entities": [], "File": "reviews.csv", "Line": 936}
+{"Entities": [], "File": "reviews.csv", "Line": 937}
+{"Entities": [], "File": "reviews.csv", "Line": 938}
+{"Entities": [], "File": "reviews.csv", "Line": 939}
+{"Entities": [], "File": "reviews.csv", "Line": 940}
+{"Entities": [], "File": "reviews.csv", "Line": 941}
+{"Entities": [], "File": "reviews.csv", "Line": 942}
+{"Entities": [], "File": "reviews.csv", "Line": 943}
+{"Entities": [], "File": "reviews.csv", "Line": 944}
+{"Entities": [], "File": "reviews.csv", "Line": 945}
+{"Entities": [], "File": "reviews.csv", "Line": 946}
+{"Entities": [], "File": "reviews.csv", "Line": 947}
+{"Entities": [], "File": "reviews.csv", "Line": 948}
+{"Entities": [], "File": "reviews.csv", "Line": 949}
+{"Entities": [], "File": "reviews.csv", "Line": 950}
+{"Entities": [], "File": "reviews.csv", "Line": 951}
+{"Entities": [], "File": "reviews.csv", "Line": 952}
+{"Entities": [], "File": "reviews.csv", "Line": 953}
+{"Entities": [], "File": "reviews.csv", "Line": 954}
+{"Entities": [], "File": "reviews.csv", "Line": 955}
+{"Entities": [], "File": "reviews.csv", "Line": 956}
+{"Entities": [], "File": "reviews.csv", "Line": 957}
+{"Entities": [], "File": "reviews.csv", "Line": 958}
+{"Entities": [], "File": "reviews.csv", "Line": 959}
+{"Entities": [], "File": "reviews.csv", "Line": 960}
+{"Entities": [], "File": "reviews.csv", "Line": 961}
+{"Entities": [], "File": "reviews.csv", "Line": 962}
+{"Entities": [], "File": "reviews.csv", "Line": 963}
+{"Entities": [], "File": "reviews.csv", "Line": 964}
+{"Entities": [], "File": "reviews.csv", "Line": 965}
+{"Entities": [], "File": "reviews.csv", "Line": 966}
+{"Entities": [], "File": "reviews.csv", "Line": 967}
+{"Entities": [], "File": "reviews.csv", "Line": 968}
+{"Entities": [], "File": "reviews.csv", "Line": 969}
+{"Entities": [], "File": "reviews.csv", "Line": 970}
+{"Entities": [], "File": "reviews.csv", "Line": 971}
+{"Entities": [], "File": "reviews.csv", "Line": 972}
+{"Entities": [], "File": "reviews.csv", "Line": 973}
+{"Entities": [], "File": "reviews.csv", "Line": 974}
+{"Entities": [], "File": "reviews.csv", "Line": 975}
+{"Entities": [], "File": "reviews.csv", "Line": 976}
+{"Entities": [], "File": "reviews.csv", "Line": 977}
+{"Entities": [], "File": "reviews.csv", "Line": 978}
+{"Entities": [], "File": "reviews.csv", "Line": 979}
+{"Entities": [], "File": "reviews.csv", "Line": 980}
+{"Entities": [], "File": "reviews.csv", "Line": 981}
+{"Entities": [], "File": "reviews.csv", "Line": 982}
+{"Entities": [], "File": "reviews.csv", "Line": 983}
+{"Entities": [], "File": "reviews.csv", "Line": 984}
+{"Entities": [], "File": "reviews.csv", "Line": 985}
+{"Entities": [], "File": "reviews.csv", "Line": 986}
+{"Entities": [], "File": "reviews.csv", "Line": 987}
+{"Entities": [], "File": "reviews.csv", "Line": 988}
+{"Entities": [], "File": "reviews.csv", "Line": 989}
+{"Entities": [], "File": "reviews.csv", "Line": 990}
+{"Entities": [], "File": "reviews.csv", "Line": 991}
+{"Entities": [], "File": "reviews.csv", "Line": 992}
+{"Entities": [], "File": "reviews.csv", "Line": 993}
+{"Entities": [], "File": "reviews.csv", "Line": 994}
+{"Entities": [], "File": "reviews.csv", "Line": 995}
+{"Entities": [], "File": "reviews.csv", "Line": 996}
+{"Entities": [], "File": "reviews.csv", "Line": 997}
+{"Entities": [], "File": "reviews.csv", "Line": 998}
+{"Entities": [], "File": "reviews.csv", "Line": 999}
+{"Entities": [], "File": "reviews.csv", "Line": 1000}
+{"Entities": [], "File": "reviews.csv", "Line": 1001}
+{"Entities": [], "File": "reviews.csv", "Line": 1002}
+{"Entities": [], "File": "reviews.csv", "Line": 1003}
+{"Entities": [], "File": "reviews.csv", "Line": 1004}
+{"Entities": [], "File": "reviews.csv", "Line": 1005}
+{"Entities": [], "File": "reviews.csv", "Line": 1006}
+{"Entities": [], "File": "reviews.csv", "Line": 1007}
+{"Entities": [], "File": "reviews.csv", "Line": 1008}
+{"Entities": [], "File": "reviews.csv", "Line": 1009}
+{"Entities": [], "File": "reviews.csv", "Line": 1010}
+{"Entities": [], "File": "reviews.csv", "Line": 1011}
+{"Entities": [], "File": "reviews.csv", "Line": 1012}
+{"Entities": [], "File": "reviews.csv", "Line": 1013}
+{"Entities": [], "File": "reviews.csv", "Line": 1014}
+{"Entities": [], "File": "reviews.csv", "Line": 1015}
+{"Entities": [], "File": "reviews.csv", "Line": 1016}
+{"Entities": [], "File": "reviews.csv", "Line": 1017}
+{"Entities": [], "File": "reviews.csv", "Line": 1018}
+{"Entities": [], "File": "reviews.csv", "Line": 1019}
+{"Entities": [], "File": "reviews.csv", "Line": 1020}
+{"Entities": [], "File": "reviews.csv", "Line": 1021}
+{"Entities": [], "File": "reviews.csv", "Line": 1022}
+{"Entities": [], "File": "reviews.csv", "Line": 1023}
+{"Entities": [], "File": "reviews.csv", "Line": 1024}
+{"Entities": [], "File": "reviews.csv", "Line": 1025}
+{"Entities": [], "File": "reviews.csv", "Line": 1026}
+{"Entities": [], "File": "reviews.csv", "Line": 1027}
+{"Entities": [], "File": "reviews.csv", "Line": 1028}
+{"Entities": [], "File": "reviews.csv", "Line": 1029}
+{"Entities": [], "File": "reviews.csv", "Line": 1030}
+{"Entities": [], "File": "reviews.csv", "Line": 1031}
+{"Entities": [], "File": "reviews.csv", "Line": 1032}
+{"Entities": [], "File": "reviews.csv", "Line": 1033}
+{"Entities": [], "File": "reviews.csv", "Line": 1034}
+{"Entities": [], "File": "reviews.csv", "Line": 1035}
+{"Entities": [], "File": "reviews.csv", "Line": 1036}
+{"Entities": [], "File": "reviews.csv", "Line": 1037}
+{"Entities": [], "File": "reviews.csv", "Line": 1038}
+{"Entities": [], "File": "reviews.csv", "Line": 1039}
+{"Entities": [], "File": "reviews.csv", "Line": 1040}
+{"Entities": [], "File": "reviews.csv", "Line": 1041}
+{"Entities": [], "File": "reviews.csv", "Line": 1042}
+{"Entities": [], "File": "reviews.csv", "Line": 1043}
+{"Entities": [], "File": "reviews.csv", "Line": 1044}
+{"Entities": [], "File": "reviews.csv", "Line": 1045}
+{"Entities": [], "File": "reviews.csv", "Line": 1046}
+{"Entities": [], "File": "reviews.csv", "Line": 1047}
+{"Entities": [], "File": "reviews.csv", "Line": 1048}
+{"Entities": [], "File": "reviews.csv", "Line": 1049}
+{"Entities": [], "File": "reviews.csv", "Line": 1050}
+{"Entities": [], "File": "reviews.csv", "Line": 1051}
+{"Entities": [], "File": "reviews.csv", "Line": 1052}
+{"Entities": [], "File": "reviews.csv", "Line": 1053}
+{"Entities": [], "File": "reviews.csv", "Line": 1054}
+{"Entities": [], "File": "reviews.csv", "Line": 1055}
+{"Entities": [], "File": "reviews.csv", "Line": 1056}
+{"Entities": [], "File": "reviews.csv", "Line": 1057}
+{"Entities": [], "File": "reviews.csv", "Line": 1058}
+{"Entities": [], "File": "reviews.csv", "Line": 1059}
+{"Entities": [], "File": "reviews.csv", "Line": 1060}
+{"Entities": [], "File": "reviews.csv", "Line": 1061}
+{"Entities": [], "File": "reviews.csv", "Line": 1062}
+{"Entities": [], "File": "reviews.csv", "Line": 1063}
+{"Entities": [], "File": "reviews.csv", "Line": 1064}
+{"Entities": [], "File": "reviews.csv", "Line": 1065}
+{"Entities": [], "File": "reviews.csv", "Line": 1066}
+{"Entities": [], "File": "reviews.csv", "Line": 1067}
+{"Entities": [], "File": "reviews.csv", "Line": 1068}
+{"Entities": [], "File": "reviews.csv", "Line": 1069}
+{"Entities": [], "File": "reviews.csv", "Line": 1070}
+{"Entities": [], "File": "reviews.csv", "Line": 1071}
+{"Entities": [], "File": "reviews.csv", "Line": 1072}
+{"Entities": [], "File": "reviews.csv", "Line": 1073}
+{"Entities": [], "File": "reviews.csv", "Line": 1074}
+{"Entities": [], "File": "reviews.csv", "Line": 1075}
+{"Entities": [], "File": "reviews.csv", "Line": 1076}
+{"Entities": [], "File": "reviews.csv", "Line": 1077}
+{"Entities": [], "File": "reviews.csv", "Line": 1078}
+{"Entities": [], "File": "reviews.csv", "Line": 1079}
+{"Entities": [], "File": "reviews.csv", "Line": 1080}
+{"Entities": [], "File": "reviews.csv", "Line": 1081}
+{"Entities": [], "File": "reviews.csv", "Line": 1082}
+{"Entities": [], "File": "reviews.csv", "Line": 1083}
+{"Entities": [], "File": "reviews.csv", "Line": 1084}
+{"Entities": [], "File": "reviews.csv", "Line": 1085}
+{"Entities": [], "File": "reviews.csv", "Line": 1086}
+{"Entities": [], "File": "reviews.csv", "Line": 1087}
+{"Entities": [], "File": "reviews.csv", "Line": 1088}
+{"Entities": [], "File": "reviews.csv", "Line": 1089}
+{"Entities": [], "File": "reviews.csv", "Line": 1090}
+{"Entities": [], "File": "reviews.csv", "Line": 1091}
+{"Entities": [], "File": "reviews.csv", "Line": 1092}
+{"Entities": [], "File": "reviews.csv", "Line": 1093}
+{"Entities": [], "File": "reviews.csv", "Line": 1094}
+{"Entities": [], "File": "reviews.csv", "Line": 1095}
+{"Entities": [], "File": "reviews.csv", "Line": 1096}
+{"Entities": [], "File": "reviews.csv", "Line": 1097}
+{"Entities": [], "File": "reviews.csv", "Line": 1098}
+{"Entities": [], "File": "reviews.csv", "Line": 1099}
+{"Entities": [], "File": "reviews.csv", "Line": 1100}
+{"Entities": [], "File": "reviews.csv", "Line": 1101}
+{"Entities": [], "File": "reviews.csv", "Line": 1102}
+{"Entities": [], "File": "reviews.csv", "Line": 1103}
+{"Entities": [], "File": "reviews.csv", "Line": 1104}
+{"Entities": [], "File": "reviews.csv", "Line": 1105}
+{"Entities": [], "File": "reviews.csv", "Line": 1106}
+{"Entities": [], "File": "reviews.csv", "Line": 1107}
+{"Entities": [], "File": "reviews.csv", "Line": 1108}
+{"Entities": [], "File": "reviews.csv", "Line": 1109}
+{"Entities": [], "File": "reviews.csv", "Line": 1110}
+{"Entities": [], "File": "reviews.csv", "Line": 1111}
+{"Entities": [], "File": "reviews.csv", "Line": 1112}
+{"Entities": [], "File": "reviews.csv", "Line": 1113}
+{"Entities": [], "File": "reviews.csv", "Line": 1114}
+{"Entities": [], "File": "reviews.csv", "Line": 1115}
+{"Entities": [], "File": "reviews.csv", "Line": 1116}
+{"Entities": [], "File": "reviews.csv", "Line": 1117}
+{"Entities": [], "File": "reviews.csv", "Line": 1118}
+{"Entities": [], "File": "reviews.csv", "Line": 1119}
+{"Entities": [], "File": "reviews.csv", "Line": 1120}
+{"Entities": [], "File": "reviews.csv", "Line": 1121}
+{"Entities": [], "File": "reviews.csv", "Line": 1122}
+{"Entities": [], "File": "reviews.csv", "Line": 1123}
+{"Entities": [], "File": "reviews.csv", "Line": 1124}
+{"Entities": [], "File": "reviews.csv", "Line": 1125}
+{"Entities": [], "File": "reviews.csv", "Line": 1126}
+{"Entities": [], "File": "reviews.csv", "Line": 1127}
+{"Entities": [], "File": "reviews.csv", "Line": 1128}
+{"Entities": [], "File": "reviews.csv", "Line": 1129}
+{"Entities": [], "File": "reviews.csv", "Line": 1130}
+{"Entities": [], "File": "reviews.csv", "Line": 1131}
+{"Entities": [], "File": "reviews.csv", "Line": 1132}
+{"Entities": [], "File": "reviews.csv", "Line": 1133}
+{"Entities": [], "File": "reviews.csv", "Line": 1134}
+{"Entities": [], "File": "reviews.csv", "Line": 1135}
+{"Entities": [], "File": "reviews.csv", "Line": 1136}
+{"Entities": [], "File": "reviews.csv", "Line": 1137}
+{"Entities": [], "File": "reviews.csv", "Line": 1138}
+{"Entities": [], "File": "reviews.csv", "Line": 1139}
+{"Entities": [], "File": "reviews.csv", "Line": 1140}
+{"Entities": [], "File": "reviews.csv", "Line": 1141}
+{"Entities": [], "File": "reviews.csv", "Line": 1142}
+{"Entities": [], "File": "reviews.csv", "Line": 1143}
+{"Entities": [], "File": "reviews.csv", "Line": 1144}
+{"Entities": [], "File": "reviews.csv", "Line": 1145}
+{"Entities": [], "File": "reviews.csv", "Line": 1146}
+{"Entities": [], "File": "reviews.csv", "Line": 1147}
+{"Entities": [], "File": "reviews.csv", "Line": 1148}
+{"Entities": [], "File": "reviews.csv", "Line": 1149}
+{"Entities": [], "File": "reviews.csv", "Line": 1150}
+{"Entities": [], "File": "reviews.csv", "Line": 1151}
+{"Entities": [], "File": "reviews.csv", "Line": 1152}
+{"Entities": [], "File": "reviews.csv", "Line": 1153}
+{"Entities": [], "File": "reviews.csv", "Line": 1154}
+{"Entities": [], "File": "reviews.csv", "Line": 1155}
+{"Entities": [], "File": "reviews.csv", "Line": 1156}
+{"Entities": [], "File": "reviews.csv", "Line": 1157}
+{"Entities": [], "File": "reviews.csv", "Line": 1158}
+{"Entities": [], "File": "reviews.csv", "Line": 1159}
+{"Entities": [], "File": "reviews.csv", "Line": 1160}
+{"Entities": [], "File": "reviews.csv", "Line": 1161}
+{"Entities": [], "File": "reviews.csv", "Line": 1162}
+{"Entities": [], "File": "reviews.csv", "Line": 1163}
+{"Entities": [], "File": "reviews.csv", "Line": 1164}
+{"Entities": [], "File": "reviews.csv", "Line": 1165}
+{"Entities": [], "File": "reviews.csv", "Line": 1166}
+{"Entities": [], "File": "reviews.csv", "Line": 1167}
+{"Entities": [], "File": "reviews.csv", "Line": 1168}
+{"Entities": [], "File": "reviews.csv", "Line": 1169}
+{"Entities": [], "File": "reviews.csv", "Line": 1170}
+{"Entities": [], "File": "reviews.csv", "Line": 1171}
+{"Entities": [], "File": "reviews.csv", "Line": 1172}
+{"Entities": [], "File": "reviews.csv", "Line": 1173}
+{"Entities": [], "File": "reviews.csv", "Line": 1174}
+{"Entities": [], "File": "reviews.csv", "Line": 1175}
+{"Entities": [], "File": "reviews.csv", "Line": 1176}
+{"Entities": [], "File": "reviews.csv", "Line": 1177}
+{"Entities": [], "File": "reviews.csv", "Line": 1178}
+{"Entities": [], "File": "reviews.csv", "Line": 1179}
+{"Entities": [], "File": "reviews.csv", "Line": 1180}
+{"Entities": [], "File": "reviews.csv", "Line": 1181}
+{"Entities": [], "File": "reviews.csv", "Line": 1182}
+{"Entities": [], "File": "reviews.csv", "Line": 1183}
+{"Entities": [], "File": "reviews.csv", "Line": 1184}
+{"Entities": [], "File": "reviews.csv", "Line": 1185}
+{"Entities": [], "File": "reviews.csv", "Line": 1186}
+{"Entities": [], "File": "reviews.csv", "Line": 1187}
+{"Entities": [], "File": "reviews.csv", "Line": 1188}
+{"Entities": [], "File": "reviews.csv", "Line": 1189}
+{"Entities": [], "File": "reviews.csv", "Line": 1190}
+{"Entities": [], "File": "reviews.csv", "Line": 1191}
+{"Entities": [], "File": "reviews.csv", "Line": 1192}
+{"Entities": [], "File": "reviews.csv", "Line": 1193}
+{"Entities": [], "File": "reviews.csv", "Line": 1194}
+{"Entities": [], "File": "reviews.csv", "Line": 1195}
+{"Entities": [], "File": "reviews.csv", "Line": 1196}
+{"Entities": [], "File": "reviews.csv", "Line": 1197}
+{"Entities": [], "File": "reviews.csv", "Line": 1198}
+{"Entities": [], "File": "reviews.csv", "Line": 1199}
+{"Entities": [], "File": "reviews.csv", "Line": 1200}
+{"Entities": [], "File": "reviews.csv", "Line": 1201}
+{"Entities": [], "File": "reviews.csv", "Line": 1202}
+{"Entities": [], "File": "reviews.csv", "Line": 1203}
+{"Entities": [], "File": "reviews.csv", "Line": 1204}
+{"Entities": [], "File": "reviews.csv", "Line": 1205}
+{"Entities": [], "File": "reviews.csv", "Line": 1206}
+{"Entities": [], "File": "reviews.csv", "Line": 1207}
+{"Entities": [], "File": "reviews.csv", "Line": 1208}
+{"Entities": [], "File": "reviews.csv", "Line": 1209}
+{"Entities": [], "File": "reviews.csv", "Line": 1210}
+{"Entities": [], "File": "reviews.csv", "Line": 1211}
+{"Entities": [], "File": "reviews.csv", "Line": 1212}
+{"Entities": [], "File": "reviews.csv", "Line": 1213}
+{"Entities": [], "File": "reviews.csv", "Line": 1214}
+{"Entities": [], "File": "reviews.csv", "Line": 1215}
+{"Entities": [], "File": "reviews.csv", "Line": 1216}
+{"Entities": [], "File": "reviews.csv", "Line": 1217}
+{"Entities": [], "File": "reviews.csv", "Line": 1218}
+{"Entities": [], "File": "reviews.csv", "Line": 1219}
+{"Entities": [], "File": "reviews.csv", "Line": 1220}
+{"Entities": [], "File": "reviews.csv", "Line": 1221}
+{"Entities": [], "File": "reviews.csv", "Line": 1222}
+{"Entities": [], "File": "reviews.csv", "Line": 1223}
+{"Entities": [], "File": "reviews.csv", "Line": 1224}
+{"Entities": [], "File": "reviews.csv", "Line": 1225}
+{"Entities": [], "File": "reviews.csv", "Line": 1226}
+{"Entities": [], "File": "reviews.csv", "Line": 1227}
+{"Entities": [], "File": "reviews.csv", "Line": 1228}
+{"Entities": [], "File": "reviews.csv", "Line": 1229}
+{"Entities": [], "File": "reviews.csv", "Line": 1230}
+{"Entities": [], "File": "reviews.csv", "Line": 1231}
+{"Entities": [], "File": "reviews.csv", "Line": 1232}
+{"Entities": [], "File": "reviews.csv", "Line": 1233}
+{"Entities": [], "File": "reviews.csv", "Line": 1234}
+{"Entities": [], "File": "reviews.csv", "Line": 1235}
+{"Entities": [], "File": "reviews.csv", "Line": 1236}
+{"Entities": [], "File": "reviews.csv", "Line": 1237}
+{"Entities": [], "File": "reviews.csv", "Line": 1238}
+{"Entities": [], "File": "reviews.csv", "Line": 1239}
+{"Entities": [], "File": "reviews.csv", "Line": 1240}
+{"Entities": [], "File": "reviews.csv", "Line": 1241}
+{"Entities": [], "File": "reviews.csv", "Line": 1242}
+{"Entities": [], "File": "reviews.csv", "Line": 1243}
+{"Entities": [], "File": "reviews.csv", "Line": 1244}
+{"Entities": [], "File": "reviews.csv", "Line": 1245}
+{"Entities": [], "File": "reviews.csv", "Line": 1246}
+{"Entities": [], "File": "reviews.csv", "Line": 1247}
+{"Entities": [], "File": "reviews.csv", "Line": 1248}
+{"Entities": [], "File": "reviews.csv", "Line": 1249}
+{"Entities": [], "File": "reviews.csv", "Line": 1250}
+{"Entities": [], "File": "reviews.csv", "Line": 1251}
+{"Entities": [], "File": "reviews.csv", "Line": 1252}
+{"Entities": [], "File": "reviews.csv", "Line": 1253}
+{"Entities": [], "File": "reviews.csv", "Line": 1254}
+{"Entities": [], "File": "reviews.csv", "Line": 1255}
+{"Entities": [], "File": "reviews.csv", "Line": 1256}
+{"Entities": [], "File": "reviews.csv", "Line": 1257}
+{"Entities": [], "File": "reviews.csv", "Line": 1258}
+{"Entities": [], "File": "reviews.csv", "Line": 1259}
+{"Entities": [], "File": "reviews.csv", "Line": 1260}
+{"Entities": [], "File": "reviews.csv", "Line": 1261}
+{"Entities": [], "File": "reviews.csv", "Line": 1262}
+{"Entities": [], "File": "reviews.csv", "Line": 1263}
+{"Entities": [], "File": "reviews.csv", "Line": 1264}
+{"Entities": [], "File": "reviews.csv", "Line": 1265}
+{"Entities": [], "File": "reviews.csv", "Line": 1266}
+{"Entities": [], "File": "reviews.csv", "Line": 1267}
+{"Entities": [], "File": "reviews.csv", "Line": 1268}
+{"Entities": [], "File": "reviews.csv", "Line": 1269}
+{"Entities": [], "File": "reviews.csv", "Line": 1270}
+{"Entities": [], "File": "reviews.csv", "Line": 1271}
+{"Entities": [], "File": "reviews.csv", "Line": 1272}
+{"Entities": [], "File": "reviews.csv", "Line": 1273}
+{"Entities": [], "File": "reviews.csv", "Line": 1274}
+{"Entities": [], "File": "reviews.csv", "Line": 1275}
+{"Entities": [], "File": "reviews.csv", "Line": 1276}
+{"Entities": [], "File": "reviews.csv", "Line": 1277}
+{"Entities": [], "File": "reviews.csv", "Line": 1278}
+{"Entities": [], "File": "reviews.csv", "Line": 1279}
+{"Entities": [], "File": "reviews.csv", "Line": 1280}
+{"Entities": [], "File": "reviews.csv", "Line": 1281}
+{"Entities": [], "File": "reviews.csv", "Line": 1282}
+{"Entities": [], "File": "reviews.csv", "Line": 1283}
+{"Entities": [], "File": "reviews.csv", "Line": 1284}
+{"Entities": [], "File": "reviews.csv", "Line": 1285}
+{"Entities": [], "File": "reviews.csv", "Line": 1286}
+{"Entities": [], "File": "reviews.csv", "Line": 1287}
+{"Entities": [], "File": "reviews.csv", "Line": 1288}
+{"Entities": [], "File": "reviews.csv", "Line": 1289}
+{"Entities": [], "File": "reviews.csv", "Line": 1290}
+{"Entities": [], "File": "reviews.csv", "Line": 1291}
+{"Entities": [], "File": "reviews.csv", "Line": 1292}
+{"Entities": [], "File": "reviews.csv", "Line": 1293}
+{"Entities": [], "File": "reviews.csv", "Line": 1294}
+{"Entities": [], "File": "reviews.csv", "Line": 1295}
+{"Entities": [], "File": "reviews.csv", "Line": 1296}
+{"Entities": [], "File": "reviews.csv", "Line": 1297}
+{"Entities": [], "File": "reviews.csv", "Line": 1298}
+{"Entities": [], "File": "reviews.csv", "Line": 1299}
+{"Entities": [], "File": "reviews.csv", "Line": 1300}
+{"Entities": [], "File": "reviews.csv", "Line": 1301}
+{"Entities": [], "File": "reviews.csv", "Line": 1302}
+{"Entities": [], "File": "reviews.csv", "Line": 1303}
+{"Entities": [], "File": "reviews.csv", "Line": 1304}
+{"Entities": [], "File": "reviews.csv", "Line": 1305}
+{"Entities": [], "File": "reviews.csv", "Line": 1306}
+{"Entities": [], "File": "reviews.csv", "Line": 1307}
+{"Entities": [], "File": "reviews.csv", "Line": 1308}
+{"Entities": [], "File": "reviews.csv", "Line": 1309}
+{"Entities": [], "File": "reviews.csv", "Line": 1310}
+{"Entities": [], "File": "reviews.csv", "Line": 1311}
+{"Entities": [], "File": "reviews.csv", "Line": 1312}
+{"Entities": [], "File": "reviews.csv", "Line": 1313}
+{"Entities": [], "File": "reviews.csv", "Line": 1314}
+{"Entities": [], "File": "reviews.csv", "Line": 1315}
+{"Entities": [], "File": "reviews.csv", "Line": 1316}
+{"Entities": [], "File": "reviews.csv", "Line": 1317}
+{"Entities": [], "File": "reviews.csv", "Line": 1318}
+{"Entities": [], "File": "reviews.csv", "Line": 1319}
+{"Entities": [], "File": "reviews.csv", "Line": 1320}
+{"Entities": [], "File": "reviews.csv", "Line": 1321}
+{"Entities": [], "File": "reviews.csv", "Line": 1322}
+{"Entities": [], "File": "reviews.csv", "Line": 1323}
+{"Entities": [], "File": "reviews.csv", "Line": 1324}
+{"Entities": [], "File": "reviews.csv", "Line": 1325}
+{"Entities": [], "File": "reviews.csv", "Line": 1326}
+{"Entities": [], "File": "reviews.csv", "Line": 1327}
+{"Entities": [], "File": "reviews.csv", "Line": 1328}
+{"Entities": [], "File": "reviews.csv", "Line": 1329}
+{"Entities": [], "File": "reviews.csv", "Line": 1330}
+{"Entities": [], "File": "reviews.csv", "Line": 1331}
+{"Entities": [], "File": "reviews.csv", "Line": 1332}
+{"Entities": [], "File": "reviews.csv", "Line": 1333}
+{"Entities": [], "File": "reviews.csv", "Line": 1334}
+{"Entities": [], "File": "reviews.csv", "Line": 1335}
+{"Entities": [], "File": "reviews.csv", "Line": 1336}
+{"Entities": [], "File": "reviews.csv", "Line": 1337}
+{"Entities": [], "File": "reviews.csv", "Line": 1338}
+{"Entities": [], "File": "reviews.csv", "Line": 1339}
+{"Entities": [], "File": "reviews.csv", "Line": 1340}
+{"Entities": [], "File": "reviews.csv", "Line": 1341}
+{"Entities": [], "File": "reviews.csv", "Line": 1342}
+{"Entities": [], "File": "reviews.csv", "Line": 1343}
+{"Entities": [], "File": "reviews.csv", "Line": 1344}
+{"Entities": [], "File": "reviews.csv", "Line": 1345}
+{"Entities": [], "File": "reviews.csv", "Line": 1346}
+{"Entities": [], "File": "reviews.csv", "Line": 1347}
+{"Entities": [], "File": "reviews.csv", "Line": 1348}
+{"Entities": [], "File": "reviews.csv", "Line": 1349}
+{"Entities": [], "File": "reviews.csv", "Line": 1350}
+{"Entities": [], "File": "reviews.csv", "Line": 1351}
+{"Entities": [], "File": "reviews.csv", "Line": 1352}
+{"Entities": [], "File": "reviews.csv", "Line": 1353}
+{"Entities": [], "File": "reviews.csv", "Line": 1354}
+{"Entities": [], "File": "reviews.csv", "Line": 1355}
+{"Entities": [], "File": "reviews.csv", "Line": 1356}
+{"Entities": [], "File": "reviews.csv", "Line": 1357}
+{"Entities": [], "File": "reviews.csv", "Line": 1358}
+{"Entities": [], "File": "reviews.csv", "Line": 1359}
+{"Entities": [], "File": "reviews.csv", "Line": 1360}
+{"Entities": [], "File": "reviews.csv", "Line": 1361}
+{"Entities": [], "File": "reviews.csv", "Line": 1362}
+{"Entities": [], "File": "reviews.csv", "Line": 1363}
+{"Entities": [], "File": "reviews.csv", "Line": 1364}
+{"Entities": [], "File": "reviews.csv", "Line": 1365}
+{"Entities": [], "File": "reviews.csv", "Line": 1366}
+{"Entities": [], "File": "reviews.csv", "Line": 1367}
+{"Entities": [], "File": "reviews.csv", "Line": 1368}
+{"Entities": [], "File": "reviews.csv", "Line": 1369}
+{"Entities": [], "File": "reviews.csv", "Line": 1370}
+{"Entities": [], "File": "reviews.csv", "Line": 1371}
+{"Entities": [], "File": "reviews.csv", "Line": 1372}
+{"Entities": [], "File": "reviews.csv", "Line": 1373}
+{"Entities": [], "File": "reviews.csv", "Line": 1374}
+{"Entities": [], "File": "reviews.csv", "Line": 1375}
+{"Entities": [], "File": "reviews.csv", "Line": 1376}
+{"Entities": [], "File": "reviews.csv", "Line": 1377}
+{"Entities": [], "File": "reviews.csv", "Line": 1378}
+{"Entities": [], "File": "reviews.csv", "Line": 1379}
+{"Entities": [], "File": "reviews.csv", "Line": 1380}
+{"Entities": [], "File": "reviews.csv", "Line": 1381}
+{"Entities": [], "File": "reviews.csv", "Line": 1382}
+{"Entities": [], "File": "reviews.csv", "Line": 1383}
+{"Entities": [], "File": "reviews.csv", "Line": 1384}
+{"Entities": [], "File": "reviews.csv", "Line": 1385}
+{"Entities": [], "File": "reviews.csv", "Line": 1386}
+{"Entities": [], "File": "reviews.csv", "Line": 1387}
+{"Entities": [], "File": "reviews.csv", "Line": 1388}
+{"Entities": [], "File": "reviews.csv", "Line": 1389}
+{"Entities": [], "File": "reviews.csv", "Line": 1390}
+{"Entities": [], "File": "reviews.csv", "Line": 1391}
+{"Entities": [], "File": "reviews.csv", "Line": 1392}
+{"Entities": [], "File": "reviews.csv", "Line": 1393}
+{"Entities": [], "File": "reviews.csv", "Line": 1394}
+{"Entities": [], "File": "reviews.csv", "Line": 1395}
+{"Entities": [], "File": "reviews.csv", "Line": 1396}
+{"Entities": [], "File": "reviews.csv", "Line": 1397}
+{"Entities": [], "File": "reviews.csv", "Line": 1398}
+{"Entities": [], "File": "reviews.csv", "Line": 1399}
+{"Entities": [], "File": "reviews.csv", "Line": 1400}
+{"Entities": [], "File": "reviews.csv", "Line": 1401}
+{"Entities": [], "File": "reviews.csv", "Line": 1402}
+{"Entities": [], "File": "reviews.csv", "Line": 1403}
+{"Entities": [], "File": "reviews.csv", "Line": 1404}
+{"Entities": [], "File": "reviews.csv", "Line": 1405}
+{"Entities": [], "File": "reviews.csv", "Line": 1406}
+{"Entities": [], "File": "reviews.csv", "Line": 1407}
+{"Entities": [], "File": "reviews.csv", "Line": 1408}
+{"Entities": [], "File": "reviews.csv", "Line": 1409}
+{"Entities": [], "File": "reviews.csv", "Line": 1410}
+{"Entities": [], "File": "reviews.csv", "Line": 1411}
+{"Entities": [], "File": "reviews.csv", "Line": 1412}
+{"Entities": [], "File": "reviews.csv", "Line": 1413}
+{"Entities": [], "File": "reviews.csv", "Line": 1414}
+{"Entities": [], "File": "reviews.csv", "Line": 1415}
+{"Entities": [], "File": "reviews.csv", "Line": 1416}
+{"Entities": [], "File": "reviews.csv", "Line": 1417}
+{"Entities": [], "File": "reviews.csv", "Line": 1418}
+{"Entities": [], "File": "reviews.csv", "Line": 1419}
+{"Entities": [], "File": "reviews.csv", "Line": 1420}
+{"Entities": [], "File": "reviews.csv", "Line": 1421}
+{"Entities": [], "File": "reviews.csv", "Line": 1422}
+{"Entities": [], "File": "reviews.csv", "Line": 1423}
+{"Entities": [], "File": "reviews.csv", "Line": 1424}
+{"Entities": [], "File": "reviews.csv", "Line": 1425}
+{"Entities": [], "File": "reviews.csv", "Line": 1426}
+{"Entities": [], "File": "reviews.csv", "Line": 1427}
+{"Entities": [], "File": "reviews.csv", "Line": 1428}
+{"Entities": [], "File": "reviews.csv", "Line": 1429}
+{"Entities": [], "File": "reviews.csv", "Line": 1430}
+{"Entities": [], "File": "reviews.csv", "Line": 1431}
+{"Entities": [], "File": "reviews.csv", "Line": 1432}
+{"Entities": [], "File": "reviews.csv", "Line": 1433}
+{"Entities": [], "File": "reviews.csv", "Line": 1434}
+{"Entities": [], "File": "reviews.csv", "Line": 1435}
+{"Entities": [], "File": "reviews.csv", "Line": 1436}
+{"Entities": [], "File": "reviews.csv", "Line": 1437}
+{"Entities": [], "File": "reviews.csv", "Line": 1438}
+{"Entities": [], "File": "reviews.csv", "Line": 1439}
+{"Entities": [], "File": "reviews.csv", "Line": 1440}
+{"Entities": [], "File": "reviews.csv", "Line": 1441}
+{"Entities": [], "File": "reviews.csv", "Line": 1442}
+{"Entities": [], "File": "reviews.csv", "Line": 1443}
+{"Entities": [], "File": "reviews.csv", "Line": 1444}
+{"Entities": [], "File": "reviews.csv", "Line": 1445}
+{"Entities": [], "File": "reviews.csv", "Line": 1446}
+{"Entities": [], "File": "reviews.csv", "Line": 1447}
+{"Entities": [], "File": "reviews.csv", "Line": 1448}
+{"Entities": [], "File": "reviews.csv", "Line": 1449}
+{"Entities": [], "File": "reviews.csv", "Line": 1450}
+{"Entities": [], "File": "reviews.csv", "Line": 1451}
+{"Entities": [], "File": "reviews.csv", "Line": 1452}
+{"Entities": [], "File": "reviews.csv", "Line": 1453}
+{"Entities": [], "File": "reviews.csv", "Line": 1454}
+{"Entities": [], "File": "reviews.csv", "Line": 1455}
+{"Entities": [], "File": "reviews.csv", "Line": 1456}
+{"Entities": [], "File": "reviews.csv", "Line": 1457}
+{"Entities": [], "File": "reviews.csv", "Line": 1458}
+{"Entities": [], "File": "reviews.csv", "Line": 1459}
+{"Entities": [], "File": "reviews.csv", "Line": 1460}
+{"Entities": [], "File": "reviews.csv", "Line": 1461}
+{"Entities": [], "File": "reviews.csv", "Line": 1462}
+{"Entities": [], "File": "reviews.csv", "Line": 1463}
+{"Entities": [], "File": "reviews.csv", "Line": 1464}
+{"Entities": [], "File": "reviews.csv", "Line": 1465}
+{"Entities": [], "File": "reviews.csv", "Line": 1466}
+{"Entities": [], "File": "reviews.csv", "Line": 1467}
+{"Entities": [], "File": "reviews.csv", "Line": 1468}
+{"Entities": [], "File": "reviews.csv", "Line": 1469}
+{"Entities": [], "File": "reviews.csv", "Line": 1470}
+{"Entities": [], "File": "reviews.csv", "Line": 1471}
+{"Entities": [], "File": "reviews.csv", "Line": 1472}
+{"Entities": [], "File": "reviews.csv", "Line": 1473}
+{"Entities": [], "File": "reviews.csv", "Line": 1474}
+{"Entities": [], "File": "reviews.csv", "Line": 1475}
+{"Entities": [], "File": "reviews.csv", "Line": 1476}
+{"Entities": [], "File": "reviews.csv", "Line": 1477}
+{"Entities": [], "File": "reviews.csv", "Line": 1478}
+{"Entities": [], "File": "reviews.csv", "Line": 1479}
+{"Entities": [], "File": "reviews.csv", "Line": 1480}
+{"Entities": [], "File": "reviews.csv", "Line": 1481}
+{"Entities": [], "File": "reviews.csv", "Line": 1482}
+{"Entities": [], "File": "reviews.csv", "Line": 1483}
+{"Entities": [], "File": "reviews.csv", "Line": 1484}
+{"Entities": [], "File": "reviews.csv", "Line": 1485}
+{"Entities": [], "File": "reviews.csv", "Line": 1486}
+{"Entities": [], "File": "reviews.csv", "Line": 1487}
+{"Entities": [], "File": "reviews.csv", "Line": 1488}
+{"Entities": [], "File": "reviews.csv", "Line": 1489}
+{"Entities": [], "File": "reviews.csv", "Line": 1490}
+{"Entities": [], "File": "reviews.csv", "Line": 1491}
+{"Entities": [], "File": "reviews.csv", "Line": 1492}
+{"Entities": [], "File": "reviews.csv", "Line": 1493}
+{"Entities": [], "File": "reviews.csv", "Line": 1494}
+{"Entities": [], "File": "reviews.csv", "Line": 1495}
+{"Entities": [], "File": "reviews.csv", "Line": 1496}
+{"Entities": [], "File": "reviews.csv", "Line": 1497}
+{"Entities": [], "File": "reviews.csv", "Line": 1498}
+{"Entities": [], "File": "reviews.csv", "Line": 1499}
+{"Entities": [], "File": "reviews.csv", "Line": 1500}
+{"Entities": [], "File": "reviews.csv", "Line": 1501}
+{"Entities": [], "File": "reviews.csv", "Line": 1502}
+{"Entities": [], "File": "reviews.csv", "Line": 1503}
+{"Entities": [], "File": "reviews.csv", "Line": 1504}
+{"Entities": [], "File": "reviews.csv", "Line": 1505}
+{"Entities": [], "File": "reviews.csv", "Line": 1506}
+{"Entities": [], "File": "reviews.csv", "Line": 1507}
+{"Entities": [], "File": "reviews.csv", "Line": 1508}
+{"Entities": [], "File": "reviews.csv", "Line": 1509}
+{"Entities": [], "File": "reviews.csv", "Line": 1510}
+{"Entities": [], "File": "reviews.csv", "Line": 1511}
+{"Entities": [], "File": "reviews.csv", "Line": 1512}
+{"Entities": [], "File": "reviews.csv", "Line": 1513}
+{"Entities": [], "File": "reviews.csv", "Line": 1514}
+{"Entities": [], "File": "reviews.csv", "Line": 1515}
+{"Entities": [], "File": "reviews.csv", "Line": 1516}
+{"Entities": [], "File": "reviews.csv", "Line": 1517}
+{"Entities": [], "File": "reviews.csv", "Line": 1518}
+{"Entities": [], "File": "reviews.csv", "Line": 1519}
+{"Entities": [], "File": "reviews.csv", "Line": 1520}
+{"Entities": [], "File": "reviews.csv", "Line": 1521}
+{"Entities": [], "File": "reviews.csv", "Line": 1522}
