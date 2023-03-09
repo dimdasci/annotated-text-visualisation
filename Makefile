@@ -14,3 +14,11 @@ format:
 ## Lint using flake8
 lint:
 	flake8 src
+
+## Docker
+build: 
+	docker build -t dimdasci/annotated-text-visualisation .
+
+push:
+	docker push dimdasci/annotated-text-visualisation:latest
+	
