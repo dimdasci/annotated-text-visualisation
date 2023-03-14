@@ -10,7 +10,9 @@ st.set_page_config(
 ASPECTS_SENTIMENT_PATH = "data/sentiments.json"
 ASPECTS_PATH = "data/atepc_inference.result.json"
 
-reviews = load_results(aspects_path=ASPECTS_PATH, sentiments_path=ASPECTS_SENTIMENT_PATH)
+reviews = load_results(
+    aspects_path=ASPECTS_PATH, sentiments_path=ASPECTS_SENTIMENT_PATH
+)
 
 st.markdown("# Aspect sentiments in reviews")
 
@@ -19,4 +21,3 @@ st.sidebar.subheader("Info")
 st.sidebar.text(f"# Reviews: {len(reviews)}")
 
 show_reviews_abs(reviews=reviews)
-

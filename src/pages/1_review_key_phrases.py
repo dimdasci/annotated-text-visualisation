@@ -7,7 +7,7 @@ from src.utils.data import (
 )
 from src.utils.show_reviews import show_reviews
 
-REVIEWS_PATH = "data/reviews.csv"
+REVIEWS_PATH = "data/reviews_sample.txt"
 KEYPHRAES_PATH = "data/keyphrases.txt"
 
 st.set_page_config(
