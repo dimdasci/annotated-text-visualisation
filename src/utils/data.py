@@ -1,5 +1,5 @@
 """
-Module for managing data
+Module for managing AWS Comprehend data
 """
 
 import json

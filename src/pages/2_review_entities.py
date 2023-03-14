@@ -12,7 +12,7 @@ st.set_page_config(
     page_icon="🏨",
 )
 
-REVIEWS_PATH = "data/reviews.csv"
+REVIEWS_PATH = "data/reviews_sample.txt"
 ENTITIES_PATH = "data/entities.txt"
 
 
