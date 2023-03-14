@@ -1,10 +1,8 @@
 version: '3.9'
 
-x-aws-vpc: "vpc-0155daaba0a498f7d"
-
 services:
   application:
-    image: dimdasci/annotated-text-visualisation:latest
+    image: dimdasci/annotated-text-visualisation:0.2.0
     ports:
       - target: 8501
         published: 8501
