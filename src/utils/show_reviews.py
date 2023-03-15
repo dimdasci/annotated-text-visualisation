@@ -5,13 +5,17 @@ from src.utils.data import make_annotations
 from src.utils.pyabs_data import make_annotations as make_annotations_abs
 
 
-def show_reviews(reviews: list, annotations: dict) -> None:
+def show_reviews(
+    reviews: list, annotations: dict, is_entity: bool = False
+) -> None:
     for i, r in paginator(
         "Select a review page", reviews, items_per_page=25, on_sidebar=False
     ):
         st.header(f"#{i:03d}")
         annotated_review = (
-            make_annotations(r, annotations[i]) if i in annotations else [r]
+            make_annotations(r, annotations[i], is_entity)
+            if i in annotations
+            else [r]
         )
         annotated_text(*annotated_review)
 

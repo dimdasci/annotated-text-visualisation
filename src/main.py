@@ -15,7 +15,7 @@ st.markdown(
     The project demonstrates the results of the following method 
     for identifying opinions and their polarity in hotel reviews:
     - AWS Comprehend pre-trained key phrases extraction,
-    - AWS Comprehend pret-rained entity extraction,
+    - AWS Comprehend targeted sentiment extraction,
     - [PyABSA](https://github.com/yangheng95/PyABSA) pre-trained aspect 
     term extraction and aspect term polarity classification.
     

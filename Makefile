@@ -17,8 +17,8 @@ lint:
 
 ## Docker
 build: 
-	docker build -t dimdasci/annotated-text-visualisation:0.2.0 .
+	docker build -t dimdasci/annotated-text-visualisation:0.3.0 .
 
 push:
-	docker push dimdasci/annotated-text-visualisation:0.2.0
+	docker push dimdasci/annotated-text-visualisation:0.3.0
 	
